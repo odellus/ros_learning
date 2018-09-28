@@ -1,0 +1,2024 @@
+ros-kinetic-abb - ROS-Industrial support for ABB manipulators (metapackage).
+ros-kinetic-abb-driver - ROS-Industrial nodes for interfacing with ABB robot controllers.
+ros-kinetic-abb-irb2400-moveit-config - MoveIt package for the ABB IRB 2400.
+ros-kinetic-abb-irb2400-moveit-plugins - MoveIt plugins for the ABB 2400 (and variants).
+ros-kinetic-abb-irb2400-support - ROS-Industrial support for the ABB IRB 2400 (and variants).
+ros-kinetic-abb-irb4400-support - ROS-Industrial support for the ABB IRB 4400 (and variants).
+ros-kinetic-abb-irb5400-support - ROS-Industrial support for the ABB IRB 5400 (and variants).
+ros-kinetic-abb-irb6600-support - ROS-Industrial support for the ABB IRB 6600 (and variants).
+ros-kinetic-abb-irb6640-moveit-config - MoveIt package for the ABB IRB 6640.
+ros-kinetic-abb-irb6640-support - ROS-Industrial support for the ABB IRB 6640 (and variants).
+ros-kinetic-abb-resources - Shared configuration data for ABB manipulators.
+ros-kinetic-abseil-cpp - The abseil_cpp package
+ros-kinetic-ackermann-controller - The ackermann_controller package
+ros-kinetic-ackermann-msgs - ROS messages for robots using Ackermann steering.
+ros-kinetic-actionlib - The actionlib stack provides a standardized interface for interfacing with preemptable tasks.
+ros-kinetic-actionlib-lisp - actionlib_lisp is a native implementation of the famous actionlib in Common Lisp.
+ros-kinetic-actionlib-msgs - actionlib_msgs defines the common messages to interact with an action server and an action client.
+ros-kinetic-actionlib-tutorials - The actionlib_tutorials package
+ros-kinetic-adi-driver - The adi_driver package
+ros-kinetic-agni-tf-tools - This package provides a gui program as well as a rviz plugin to publish static transforms.
+ros-kinetic-agvs-common - URDF description of the Agvs and Agvs.
+ros-kinetic-agvs-control - The agvs_control package.
+ros-kinetic-agvs-description - The agvs_description package.
+ros-kinetic-agvs-gazebo - The agvs_gazebo package.
+ros-kinetic-agvs-pad - The agvs_pad package.Component to control the robot by using a ps3 pad.
+ros-kinetic-agvs-robot-control - The agvs_robot_control package.
+ros-kinetic-agvs-sim - agvs Gazebo simulation packages
+ros-kinetic-agvs-sim-bringup - The agvs_sim_bringup package.
+ros-kinetic-allocators - Contains aligned allocation functions, as well as an STL-compatible AlignedAllocator class.
+ros-kinetic-amcl - amcl is a probabilistic localization system for a robot moving in 2D.
+ros-kinetic-angles - This package provides a set of simple math utilities to work with angles.
+ros-kinetic-app-manager - app_manager
+ros-kinetic-ar-track-alvar - This package is a ROS wrapper for Alvar, an open source AR tag tracking library.
+ros-kinetic-ar-track-alvar-msgs - This package is a ROS wrapper for Alvar, an open source AR tag tracking library.
+ros-kinetic-arbotix - ArbotiX Drivers
+ros-kinetic-arbotix-controllers - Extends the arbotix_python package with a number of more sophisticated ROS wrappers for common devices.
+ros-kinetic-arbotix-firmware - Firmware source code for ArbotiX ROS bindings.
+ros-kinetic-arbotix-msgs - Messages and Services definitions for the ArbotiX.
+ros-kinetic-arbotix-python - Bindings and low-level controllers for ArbotiX-powered robots.
+ros-kinetic-arbotix-sensors - Extends the arbotix_node package with a number of more sophisticated ROS wrappers for common devices.
+ros-kinetic-ardrone-autonomy - ardrone_autonomy is a ROS driver for Parrot AR-Drone 1.0 and 2.0 quadrocopters.
+ros-kinetic-arm-navigation-msgs - arm_navigation_msgs
+ros-kinetic-aruco - The ARUCO Library has been developed by the Ava group of the Univeristy of Cordoba(Spain).
+ros-kinetic-aruco-detect - Fiducial detection based on the aruco library
+ros-kinetic-aruco-msgs - The aruco_msgs package
+ros-kinetic-aruco-ros - The ARUCO Library has been developed by the Ava group of the Univeristy of Cordoba(Spain).
+ros-kinetic-assimp-devel - assimp library
+ros-kinetic-astra-camera - Drivers for Orbbec Astra Devices.
+ros-kinetic-astra-launch - Drivers for Orbbec Astra Devices.
+ros-kinetic-astuff-sensor-msgs - Messages specific to AStuff-provided sensors.
+ros-kinetic-async-web-server-cpp - Asynchronous Web/WebSocket Server in C++
+ros-kinetic-ati-ft-sensor - This package is a library for using ATI's transducer.
+ros-kinetic-audio-capture - Transports audio from a source to a destination.
+ros-kinetic-audio-common - Common code for working with audio in ROS
+ros-kinetic-audio-common-msgs - Messages for transmitting audio via ROS
+ros-kinetic-audio-play - Outputs audio to a speaker from a source node.
+ros-kinetic-auv-msgs - This package provides message types commonly used with Autonomous Underwater Vehicles
+ros-kinetic-avt-vimba-camera - Wrapper of the Allied Vision Technologies (AVT) VIMBA Ethernet and Firewire SDK.
+ros-kinetic-axcli - A simple actionlib CLI client
+ros-kinetic-axis-camera - Python ROS drivers for accessing an Axis camera's MJPG stream.
+ros-kinetic-backward-ros - The backward_ros package is a ros wrapper of backward-cpp from https://github.com/bombela/backward-cpp
+ros-kinetic-baldor - The baldor package
+ros-kinetic-barrett-hand - The barrett_hand package contains all the components to control the Barrett Hand
+ros-kinetic-barrett-hand-common - The barrett hand common metapackage contains all the common packages for the Barrett hand
+ros-kinetic-barrett-hand-control - The barrett_hand_control package is intended to control the gazebo simulation of the barrett hand
+ros-kinetic-barrett-hand-description - The barrett_hand_description package
+ros-kinetic-barrett-hand-gazebo - The barrett_hand_gazebo package
+ros-kinetic-barrett-hand-sim - The barrett_hand_sim package
+ros-kinetic-base-local-planner - This package provides implementations of the Trajectory Rollout and Dynamic Window approaches to local robot navigation on a plane.
+ros-kinetic-bayesian-belief-networks - The bayesian_belief_networks package form https://github.com/eBay/bayesian-belief-networks, Authored by Neville Newey, Anzar Afaq, Copyright 2013 eBay Software Foundation
+ros-kinetic-bcap - bCAP library as a ROS package
+ros-kinetic-bcap-core - The bcap core package includes libraries for communicating ORiN via b-CAP (Binary - Controller Access Protocol) protocol.
+ros-kinetic-bcap-service - The bcap service package includes a node for communicating ORiN from ROS.
+ros-kinetic-bcap-service-test - The bcap service test package includes a node for testing bcap service node.
+ros-kinetic-bfl - This package contains a recent version of the Bayesian Filtering Library (BFL), distributed by the Orocos Project.
+ros-kinetic-bhand-controller - The bhand_controller package is intended to control the Barrett Hand
+ros-kinetic-bin-pose-emulator - bin_pose_emulator generates random poses of items in the predefined bin.
+ros-kinetic-bin-pose-msgs - The bin_pose_msgs package
+ros-kinetic-binpicking-simple-utils - Various binpicking utils
+ros-kinetic-binpicking-utils - Binpicking utils metapackage
+ros-kinetic-bond - A bond allows two processes, A and B, to know when the other has terminated, either cleanly or by crashing.
+ros-kinetic-bond-core - A bond allows two processes, A and B, to know when the other has terminated, either cleanly or by crashing.
+ros-kinetic-bondcpp - C++ implementation of bond, a mechanism for checking when another process has terminated.
+ros-kinetic-bondpy - Python implementation of bond, a mechanism for checking when another process has terminated.
+ros-kinetic-brics-actuator - Message defined in the BRICS project
+ros-kinetic-calibration - Provides a toolchain running through the robot calibration process.
+ros-kinetic-calibration-estimation - Runs an optimization to estimate the a robot's kinematic parameters.
+ros-kinetic-calibration-launch - This package contains a collection of launch files that can be helpful in configuring the calibration stack to run on your robot.
+ros-kinetic-calibration-msgs - This package defines messages for storing calibration samples to be used in full robot calibration procedures.
+ros-kinetic-calibration-setup-helper - This package contains a script to generate calibration launch and configurationfiles for your robot.
+ros-kinetic-camera-calibration - camera_calibration allows easy calibration of monocular or stereo cameras using a checkerboard calibration target.
+ros-kinetic-camera-calibration-parsers - camera_calibration_parsers contains routines for reading and writing camera calibration parameters.
+ros-kinetic-camera-info-manager - This package provides a C++ interface for camera calibration information.
+ros-kinetic-camera-info-manager-py - Python interface for camera calibration information.
+ros-kinetic-camera-umd - UMD camera metapackage
+ros-kinetic-camera1394 - ROS driver for devices supporting the IEEE 1394 Digital Camera (IIDC) protocol.
+ros-kinetic-can-msgs - CAN related message types.
+ros-kinetic-canopen-402 - This implements the CANopen device profile for drives and motion control.
+ros-kinetic-canopen-chain-node - Base implementation for CANopen chains node with support for management services and diagnostics
+ros-kinetic-canopen-master - CiA(r) CANopen 301 master implementation with support for interprocess master synchronisation.
+ros-kinetic-canopen-motor-node - canopen_chain_node specialization for handling of canopen_402 motor devices.
+ros-kinetic-capabilities - Package which implements capabilities, including code to parse capability interface specs, to parse capability provider specs, and implement the capability server.
+ros-kinetic-care-o-bot - The care-o-bot meta-package
+ros-kinetic-care-o-bot-desktop - The care-o-bot-desktop meta-package
+ros-kinetic-care-o-bot-robot - The care-o-bot-robot meta-package
+ros-kinetic-care-o-bot-simulation - The care-o-bot-simulation meta-package
+ros-kinetic-carrot-planner - This planner attempts to find a legal place to put a carrot for the robot to follow.
+ros-kinetic-cartesian-msgs - Stream cartesian commands
+ros-kinetic-cartographer - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+ros-kinetic-cartographer-ros - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+ros-kinetic-cartographer-ros-msgs - ROS messages for the cartographer_ros package.
+ros-kinetic-cartographer-rviz - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+ros-kinetic-catch-ros - ROS integration for the Catch unit test framework
+ros-kinetic-catkin - Low-level build system macros and infrastructure for ROS.
+ros-kinetic-catkin-pip - Catkin macros to allow using pure python packages in usual catkin workspaces with normal python workflow.
+ros-kinetic-catkin-virtualenv - Bundle python requirements in a catkin package via virtualenv.
+ros-kinetic-certifi - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
+ros-kinetic-checkerboard-detector - Uses opencv to find checkboards and compute their 6D poses with respect to the image.
+ros-kinetic-cht10-node - The dumpbot_serial_func package for getting data of dumpbot from MCU
+ros-kinetic-cl-tf - Client implementation to use TF from Common Lisp
+ros-kinetic-cl-tf2 - Client implementation to use TF2 from Common Lisp
+ros-kinetic-cl-transforms - Homogeneous transform library for Common Lisp.
+ros-kinetic-cl-transforms-stamped - Implementation of TF datatypes
+ros-kinetic-cl-urdf - cl_urdf
+ros-kinetic-cl-utils - Common Lisp utility libraries
+ros-kinetic-class-loader - The class_loader package is a ROS-independent package for loading plugins during runtime and the foundation of the higher level ROS &quot;pluginlib&quot; library.
+ros-kinetic-clear-costmap-recovery - This package provides a recovery behavior for the navigation stack that attempts to clear space by reverting the costmaps used by the navigation stack to the static map outside of a given area.
+ros-kinetic-click - Python composable command line utility http://click.pocoo.org/
+ros-kinetic-clock-relay - Specialization of message_relay for clock
+ros-kinetic-cm-740-module - The cm_740_module package
+ros-kinetic-cmake-modules - A common repository for CMake Modules which are not distributed with CMake but are commonly used by ROS packages.
+ros-kinetic-cmd-vel-smoother - The cmd_vel_smoother package
+ros-kinetic-cob-3d-mapping-msgs - Message, service and action definitions for environment perception.
+ros-kinetic-cob-android - cob_android package provides tools for android apps operation.
+ros-kinetic-cob-android-msgs - cob_android_msgs
+ros-kinetic-cob-android-resource-server - cob_android_resource_server
+ros-kinetic-cob-android-script-server - cob_android_script_server
+ros-kinetic-cob-android-settings - cob_android_settings
+ros-kinetic-cob-base-drive-chain - This package contains classes that are able to control the platform of the Care-O-Bot.
+ros-kinetic-cob-base-velocity-smoother - The 'cob_base_velocity_smoother' reads velocity messages and publishes messages of the same type for &quot;smoothed&quot; velocity to avoid shaking behavior.
+ros-kinetic-cob-bms-driver - Driver package for interfacing the battery management system (BMS) on Care-O-bot.
+ros-kinetic-cob-bringup - This package provides launch files for operating Care-O-bot.
+ros-kinetic-cob-bringup-sim - This package provides launch files for starting a simulated Care-O-bot.
+ros-kinetic-cob-calibration-data - This repository holds the current calibration data for Care-O-bot.
+ros-kinetic-cob-cam3d-throttle - cob_cam3d_throttle: only for Trottel
+ros-kinetic-cob-camera-sensors - For more information read the readme.htm file located in
+ros-kinetic-cob-canopen-motor - The package cob_canopen_motor implements a controller-drive component which is connected to a can-bus and works with a canopen-interface.
+ros-kinetic-cob-cartesian-controller - This package provides nodes that broadcast tf-frames along various (model-based) Cartesian paths (e.g.
+ros-kinetic-cob-collision-monitor - The collision monitor uses the planning scene monitor to read the state of the robot and check it for collision with itselt or the environment.
+ros-kinetic-cob-collision-velocity-filter - The cob_collision_velocity_filter package is a package for collision avoidance using teleoperation.
+ros-kinetic-cob-command-gui - This package provides a simple GUI for operating Care-O-bot.
+ros-kinetic-cob-command-tools - The cob_command_tools stack provides tools, for operating Care-O-bot.
+ros-kinetic-cob-common - The cob_common stack hosts common packages that are used within the Care-O-bot repository.
+ros-kinetic-cob-control - cob_control meta-package
+ros-kinetic-cob-control-mode-adapter - The cob_control_mode_adapter package
+ros-kinetic-cob-control-msgs - Common messages and services used in various packages within cob_control.
+ros-kinetic-cob-dashboard - cob_dashboard is a modified version of [[pr2_dashboard]].
+ros-kinetic-cob-default-env-config - This package contains configuration files for the default environments for Care-O-bot supported by IPA.
+ros-kinetic-cob-default-robot-behavior - The cob_default_robot_behavior package
+ros-kinetic-cob-default-robot-config - Default configuration of the different robots supported by the Care-O-bot stacks.
+ros-kinetic-cob-description - This package contains the description (mechanical, kinematic, visual, etc.) of the Care-O-bot robot.
+ros-kinetic-cob-docker-control - Autonomous docking
+ros-kinetic-cob-driver - The cob_driver stack includes packages that provide access to the Care-O-bot hardware through ROS messages, services and actions.
+ros-kinetic-cob-elmo-homing - This packagae implements the special homing procedure that is needed for old cob4/raw bases
+ros-kinetic-cob-environments - This stack holds packages for IPA default environment configuration.
+ros-kinetic-cob-extern - The cob_extern stack contains third party libraries needed for operating Care-O-bot.
+ros-kinetic-cob-footprint-observer - The cob_footprint_observer package adjusts the footprint of the robot based on the setup (e.g.
+ros-kinetic-cob-frame-tracker - The cob_frame_tracker package
+ros-kinetic-cob-gazebo - Launch files and tools for 3D simulation of Care-O-bot in gazebo simulator.
+ros-kinetic-cob-gazebo-objects - This package provides some objects and furniture for gazebo simulation.
+ros-kinetic-cob-gazebo-plugins - cob_gazebo_plugins meta-package
+ros-kinetic-cob-gazebo-ros-control - This package contains a specialization of the gazebo_ros_control plugin.
+ros-kinetic-cob-gazebo-worlds - This package provides some worlds for gazebo simulation.
+ros-kinetic-cob-generic-can - The package cob_generic_can provides an interface for nodes on a can-bus and examplary wrappers for two PeakSys-can-libs.
+ros-kinetic-cob-grasp-generation - Grasp generation for Care-O-bot based on OpenRAVE
+ros-kinetic-cob-hand - The cob_hand stack includes packages that provide access to the Care-O-bot hand through ROS serial.
+ros-kinetic-cob-hand-bridge - The cob_hand_bridge package
+ros-kinetic-cob-hardware-config - This package contains configuration for each robot instance (e.g.
+ros-kinetic-cob-helper-tools - Helper scripts for Care-O-bot
+ros-kinetic-cob-image-flip - Flips the image of Care-O-bots kinect in dependence of the viewing direction of the cameras to receive an upright image all the time.
+ros-kinetic-cob-interactive-teleop - COB teleop interactive marker for RViz provided by dcgm-robotics@FIT group.
+ros-kinetic-cob-light - This package contains scripts to operate the LED lights on Care-O-bot.
+ros-kinetic-cob-linear-nav - cob_linear_nav provides a simple navigation instrument driving on a linear path from current position to goal without any planning or obstacle avoidance capabilites.
+ros-kinetic-cob-lookat-action - cob_lookat_action
+ros-kinetic-cob-manipulation - The cob_manipulation stack includes packages that provide manipulation capabilities for Care-O-bot.
+ros-kinetic-cob-map-accessibility-analysis - cob_map_accessibility_analysis receives the map from navigation as well as obstacles and inflates_obstacles topics to assemble a common obstacle map.
+ros-kinetic-cob-mapping-slam - cob_mapping_slam holds launch files for running SLAM using the gmapping package.
+ros-kinetic-cob-mimic - This package implements the Care-O-bot mimic
+ros-kinetic-cob-model-identifier - The cob_model_identifier package
+ros-kinetic-cob-monitoring - cob_monitoring
+ros-kinetic-cob-moveit-bringup - MoveIt launch files
+ros-kinetic-cob-moveit-config - MoveIt config files for all cob and raw
+ros-kinetic-cob-moveit-interface - cob_moveit_interface
+ros-kinetic-cob-msgs - Messages for representing state information, such as battery information and emergency stop status.
+ros-kinetic-cob-navigation - The cob_navigation stack provides different navigation packages for Care-O-bot.
+ros-kinetic-cob-navigation-config - This package holds common configuration files for running the move_base node and other navigation related nodes on the Care-O-bot.
+ros-kinetic-cob-navigation-global - This package holds config and launch files for running the move_base node on the Care-O-bot.
+ros-kinetic-cob-navigation-local - This package holds config and launch files for running the move_base node on the Care-O-bot in an odometric frame.
+ros-kinetic-cob-navigation-slam - This package provides launch files for running Care-O-bot with the gmapping slam package of ROS.
+ros-kinetic-cob-object-detection-msgs - This package contains message type definitions for object detection
+ros-kinetic-cob-object-detection-visualizer - The cob_object_detection_visualizer package
+ros-kinetic-cob-obstacle-distance - The cob_obstacle_distance package
+ros-kinetic-cob-obstacle-distance-moveit - This package provides nodes for calculating the minimal distance to robot links, obstacles and octomap using MoveIt!'s PlanningSceneMonitor
+ros-kinetic-cob-omni-drive-controller - The cob_omni_drive_controller package
+ros-kinetic-cob-perception-common - This stack provides utilities commonly needed for a variety of computer vision tasks.
+ros-kinetic-cob-perception-msgs - This package contains common message type definitions for perception tasks.
+ros-kinetic-cob-phidget-em-state - The cob_phidget_em_state package
+ros-kinetic-cob-phidget-power-state - The cob_phidget_power_state package
+ros-kinetic-cob-phidgets - cob_phidgets
+ros-kinetic-cob-pick-place-action - An action interface to MoveIt!'s pick-and-place for Care-O-bot
+ros-kinetic-cob-reflector-referencing - This package provides a node broadcasting a tf frame based on reflector markers detected within sensor_msgs::LaserScan messages.
+ros-kinetic-cob-relayboard - cob_relayboard
+ros-kinetic-cob-robots - This stack holds packages for hardware configuration as well as launch files for starting up the basic layer for operating Care-O-bot.
+ros-kinetic-cob-safety-controller - This package is a substitute for the private implementation of cob_safety_controller package
+ros-kinetic-cob-scan-unifier - The cob_scan_unifier package holds code to unify two or more laser-scans to one unified scan-message
+ros-kinetic-cob-script-server - The cob_script_server package provides a simple interface to operate Care-O-bot.
+ros-kinetic-cob-sick-lms1xx - This package published a laser scan message out of a Sick LMS1xx laser scanner.
+ros-kinetic-cob-sick-s300 - This package published a laser scan message out of a Sick S300 laser scanner.
+ros-kinetic-cob-simulation - The cob_simulation stack includes packages to work with Care-O-bot within simulation environments, e.g.
+ros-kinetic-cob-sound - This package implements a sound play module using text2wave and aplay through python.
+ros-kinetic-cob-srvs - This Package contains Care-O-bot specific service definitions.
+ros-kinetic-cob-substitute - cob_substitute
+ros-kinetic-cob-supported-robots - This package contains the list of supported robots within the care-o-bot family.
+ros-kinetic-cob-teleop - Teleop node
+ros-kinetic-cob-trajectory-controller - This package provides a trajectory controller which controlls velocities for a chain of joints.
+ros-kinetic-cob-twist-controller - The main purpose of the cob_twist_controller is to convert target twists into joint velocities.
+ros-kinetic-cob-undercarriage-ctrl - cob_undercarriage_ctrl implements a controller for the omnidirectional base of Care-O-bot 3 on joint level.
+ros-kinetic-cob-utilities - Deprecated &quot;cob_utilities&quot; subsumes a number of classes, which are used in the original COb3 software.
+ros-kinetic-cob-vision-utils - Contains utilities used within the object detection tool chain.
+ros-kinetic-cob-voltage-control - Interface to IO board that manages emergency stop and battery voltage on rob@work 3
+ros-kinetic-collada-parser - This package contains a C++ parser for the Collada robot description format.
+ros-kinetic-collada-robots - COLLADA 1.5 Robot Models Repository This repository is associated with the Open Robotics Automation Virtual Environment (OpenRAVE).
+ros-kinetic-collada-urdf - This package contains a tool to convert Unified Robot Description Format (URDF) documents into COLLAborative Design Activity (COLLADA) documents.
+ros-kinetic-combined-robot-hw - Combined Robot HW class.
+ros-kinetic-combined-robot-hw-tests - The combined_robot_hw_tests package
+ros-kinetic-common-msgs - common_msgs contains messages that are widely used by other ROS packages.
+ros-kinetic-common-tutorials - Metapackage that contains common tutorials
+ros-kinetic-compressed-depth-image-transport - Compressed_depth_image_transport provides a plugin to image_transport for transparently sending depth images (raw, floating-point) using PNG compression.
+ros-kinetic-compressed-image-transport - Compressed_image_transport provides a plugin to image_transport for transparently sending images encoded as JPEG or PNG.
+ros-kinetic-concert-msgs - Shared communication types for the concert framework.
+ros-kinetic-concert-service-msgs - Messages used by official rocon services.
+ros-kinetic-concert-workflow-engine-msgs - Messages used by workflow engine
+ros-kinetic-contact-states-observer - The contact_states_observer package
+ros-kinetic-control-msgs - control_msgs contains base messages and actions useful for controlling robots.
+ros-kinetic-control-toolbox - The control toolbox contains modules that are useful across all controllers.
+ros-kinetic-controller-interface - Interface base class for controllers
+ros-kinetic-controller-manager - The controller manager.
+ros-kinetic-controller-manager-msgs - Messages and services for the controller manager.
+ros-kinetic-controller-manager-tests - controller_manager_tests
+ros-kinetic-convex-decomposition - Convex Decomposition Tool for Robot Model
+ros-kinetic-cost-map - Meta-package for the universal cost map library.
+ros-kinetic-cost-map-core - Cost maps, following the style of ethz-asl's grid_map library.
+ros-kinetic-cost-map-cv - Conversions between cost_maps and opencv images.
+ros-kinetic-cost-map-demos - Demonstrations for cost maps.
+ros-kinetic-cost-map-msgs - Definition of cost map messages (related to the grid map message type).
+ros-kinetic-cost-map-ros - Cost maps, following the style of ethz-asl's grid_map library.
+ros-kinetic-cost-map-visualisations - Visualisation tools for cost maps.
+ros-kinetic-costmap-2d - This package provides an implementation of a 2D costmap that takes in sensor data from the world, builds a 2D or 3D occupancy grid of the data (depending on whether a voxel based implementation is used), and inflates costs in a 2D costmap based on the occupancy grid and a user specified inflation radius.
+ros-kinetic-costmap-converter - A ros package that includes plugins and nodes to convert occupied costmap2d cells to primitive types.
+ros-kinetic-costmap-prohibition-layer - ROS-Package that implements a costmap layer to add prohibited areas to the costmap-2D by a user configuration.
+ros-kinetic-cpp-common - cpp_common contains C++ code for doing things that are not necessarily ROS related, but are useful for multiple packages.
+ros-kinetic-cpr-multimaster-tools - Multi-master tools for configuration and message relaying
+ros-kinetic-create-dashboard - The Create dashboard is a RQT-based plug-in for visualising data from the Create and giving easy access to basic functionalities.
+ros-kinetic-create-description - Model description for the iRobot Create
+ros-kinetic-create-driver - Driver for iRobot Create and Roomba This is a generic driver for iRobot Create that currently holds implementations for Turtlebot and Roomba.
+ros-kinetic-create-node - iRobot Create ROS driver node ROS bindings for the Create/Roomba driver.
+ros-kinetic-criutils - The criutils package
+ros-kinetic-csm - This is a ROS 3rd-party wrapper (see REP-136 for more detail) of Andrea Censi's CSM package.
+ros-kinetic-cv-bridge - This contains CvBridge, which converts between ROS Image messages and OpenCV images.
+ros-kinetic-cv-camera - cv_camera uses OpenCV capture object to capture camera image.
+ros-kinetic-darknet-ros-msgs - Darknet is an open source neural network framework that runs on CPU and GPU.
+ros-kinetic-dartsim - DART (Dynamic Animation and Robotics Toolkit) is a collaborative, cross-platform, open source library created by the Georgia Tech Graphics Lab and Humanoid Robotics Lab, with ongoing support by the University of Washington Personal Robotics Lab and Open Robotics.
+ros-kinetic-ddynamic-reconfigure-python - The ddynamic_reconfigure_python package contains a class to instantiate dynamic reconfigure servers on the fly registering variables
+ros-kinetic-declination - Computes magnetic compass offset from NavSatFix, and provides nodes to apply this offset to various standard messages.
+ros-kinetic-default-cfg-fkie - The configuration node loads a given launch configuration and offers services to list or start the contained nodes.
+ros-kinetic-delphi-esr-msgs - Message definitions for the Delphi ESR
+ros-kinetic-delphi-srr-msgs - Message definitions for the Delphi SRR
+ros-kinetic-dense-laser-assembler - Stores streaming data from a laser sensor in a dense representation.
+ros-kinetic-denso - Packages in the denso suite provide controller functionality for Denso's industrial manipulators.
+ros-kinetic-denso-launch - Although the package name might indicate that it only could only contain generic .launch files, this package functions as a center location for storing .launch files for all DENSO robots (currently vs060).
+ros-kinetic-denso-robot-bringup - The denso robot bringup package includes launch files for starting denso robot nodes.
+ros-kinetic-denso-robot-control - The denso robot control package includes a node for controlling DENSO robot controllers with MoveIt!.
+ros-kinetic-denso-robot-core - The denso robot core package includes a node for controlling DENSO robot controllers.
+ros-kinetic-denso-robot-core-test - The denso robot core test package includes a node for testing denso robot core node.
+ros-kinetic-denso-robot-descriptions - The denso robot descriptions package includes URDF files for DENSO robots.
+ros-kinetic-denso-robot-gazebo - The denso robot gazebo package includes a launch file for simulating DENSO robot.
+ros-kinetic-denso-robot-moveit-config - An automatically generated package with all the configuration and launch files for using the DENSO robots with the MoveIt Motion Planning Framework
+ros-kinetic-denso-robot-ros - The denso robot ros stack constains libraries, configuration files, and ROS nodes for controlling a DENSO robot from ROS.
+ros-kinetic-denso-ros-control - The denso_ros_control package
+ros-kinetic-depth-image-proc - Contains nodelets for processing depth images such as those produced by OpenNI camera.
+ros-kinetic-depthcloud-encoder - Point Cloud Encoder for Web-Based Streaming
+ros-kinetic-depthimage-to-laserscan - depthimage_to_laserscan
+ros-kinetic-desktop - A metapackage to aggregate several packages.
+ros-kinetic-desktop-full - A metapackage to aggregate several packages.
+ros-kinetic-diagnostic-aggregator - diagnostic_aggregator
+ros-kinetic-diagnostic-analysis - The diagnostic_analysis package can convert a log of diagnostics data into a series of CSV files.
+ros-kinetic-diagnostic-common-diagnostics - diagnostic_common_diagnostics
+ros-kinetic-diagnostic-msgs - This package holds the diagnostic messages which provide the standardized interface for the diagnostic and runtime monitoring systems in ROS.
+ros-kinetic-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics.
+ros-kinetic-diagnostics - diagnostics
+ros-kinetic-diff-drive-controller - Controller for a differential drive mobile base.
+ros-kinetic-dnn-detect - DNN based detection
+ros-kinetic-downward - fast downward: PDDL Planner (http://www.fast-downward.org)
+ros-kinetic-dr-base - Delft Robotics base dependencies.
+ros-kinetic-dr-cmake - Some CMake utilities for DR.
+ros-kinetic-driver-base - A framework for writing drivers that helps with runtime reconfiguration, diagnostics and self-test.
+ros-kinetic-driver-common - The driver_common stack contains classes and tools that are useful throughout the driver stacks.
+ros-kinetic-dwa-local-planner - This package provides an implementation of the Dynamic Window Approach to local robot navigation on a plane.
+ros-kinetic-dynamic-edt-3d - The dynamicEDT3D library implements an inrementally updatable Euclidean distance transform (EDT) in 3D.
+ros-kinetic-dynamic-reconfigure - This unary stack contains the dynamic_reconfigure package which provides a means to change node parameters at any time without having to restart the node.
+ros-kinetic-dynamic-tf-publisher - dynamically set the tf trensformation
+ros-kinetic-dynamixel-controllers - This package contains a configurable node, services and a spawner script to start, stop and restart one or more controller plugins.
+ros-kinetic-dynamixel-driver - This package provides low level IO for Robotis Dynamixel servos.
+ros-kinetic-dynamixel-motor - This stack contains packages that are used to interface with Robotis Dynamixel line of servo motors.
+ros-kinetic-dynamixel-msgs - Common messages used throughout dynamixel_motor stack.
+ros-kinetic-dynamixel-sdk - This package is wrapping version of ROBOTIS Dynamxel SDK for ROS.
+ros-kinetic-dynamixel-tutorials - Example configuration and launch file for dynamixel_motor stack.
+ros-kinetic-dynamixel-workbench - Dynamixel-Workbench is dynamixel solution for ROS.
+ros-kinetic-dynamixel-workbench-controllers - This package contains examples of applying the 'dynamixel_workbench_toolbox' library developed on the basis of dynamixel_sdk to various operating modes of Dynamixel.
+ros-kinetic-dynamixel-workbench-msgs - This package includes ROS messages and services for dynamixel_workbench packages
+ros-kinetic-dynamixel-workbench-operators - This package contains nodes that control the Dynamixel by communicating with the server registered in the 'dynamixel_workbench_controllers' package
+ros-kinetic-dynamixel-workbench-single-manager - This package is single manager for a Dynamixel.
+ros-kinetic-dynamixel-workbench-single-manager-gui - It provides a grapic user interface to check the status of Dynamixel and control it before using Dynamixel
+ros-kinetic-dynamixel-workbench-toolbox - This package is composed of 'dynamixel_item', 'dynamixel_tool', 'dynamixel_driver' and 'dynamixel_workbench' class.
+ros-kinetic-dynpick-driver - Driver package for Wacohtech dynpick force sensor.
+ros-kinetic-easy-markers - Python library to assist in publishing markers easily
+ros-kinetic-eband-local-planner - eband_local_planner implements a plugin to the base_local_planner.
+ros-kinetic-ecl - Metapackage bringing all of ecl together.
+ros-kinetic-ecl-build - Collection of cmake/make build tools primarily for ecl development itself, but also contains a few cmake modules useful outside of the ecl.
+ros-kinetic-ecl-command-line - Embeds the TCLAP library inside the ecl.
+ros-kinetic-ecl-concepts - Introduces a compile time concept checking mechanism that can be used most commonly to check for required functionality when passing template arguments.
+ros-kinetic-ecl-config - These tools inspect and describe your system with macros, types and functions.
+ros-kinetic-ecl-console - Color codes for ansii consoles.
+ros-kinetic-ecl-containers - The containers included here are intended to extend the stl containers.
+ros-kinetic-ecl-converters - Some fast/convenient type converters, mostly for char strings or strings.
+ros-kinetic-ecl-converters-lite - These are a very simple version of some of the functions in ecl_converters suitable for firmware development.
+ros-kinetic-ecl-core - A set of tools and interfaces extending the capabilities of c++ to provide a lightweight, consistent interface with a focus for control programming.
+ros-kinetic-ecl-core-apps - This includes a suite of programs demo'ing various aspects of the ecl_core.
+ros-kinetic-ecl-devices - Provides an extensible and standardised framework for input-output devices.
+ros-kinetic-ecl-eigen - This provides an Eigen implementation for ecl's linear algebra.
+ros-kinetic-ecl-errors - This library provides lean and mean error mechanisms.
+ros-kinetic-ecl-exceptions - Template based exceptions - these are simple and practical and avoid the proliferation of exception types.
+ros-kinetic-ecl-filesystem - Cross platform filesystem utilities (until c++11 makes its way in).
+ros-kinetic-ecl-formatters - The formatters here simply format various input types to a specified text format.
+ros-kinetic-ecl-geometry - Any tools relating to mathematical geometry.
+ros-kinetic-ecl-io - Most implementations (windows, posix, ...) have slightly different api for low level input-output functions.
+ros-kinetic-ecl-ipc - Interprocess mechanisms vary greatly across platforms - sysv, posix, win32, there are more than a few.
+ros-kinetic-ecl-license - Maintains the ecl licenses and also provides an install target for deploying licenses with the ecl libraries.
+ros-kinetic-ecl-linear-algebra - Ecl frontend to a linear matrix package (currently eigen).
+ros-kinetic-ecl-lite - Libraries and utilities for embedded and low-level linux development.
+ros-kinetic-ecl-manipulation - Includes basic manipulation related structures as well as a few algorithms currently used at Yujin Robot.
+ros-kinetic-ecl-manipulators - Deploys various manipulation algorithms, currently just feedforward filters (interpolations).
+ros-kinetic-ecl-math - This package provides simple support to cmath, filling in holes or redefining in a c++ formulation where desirable.
+ros-kinetic-ecl-mobile-robot - Contains transforms (e.g.
+ros-kinetic-ecl-mpl - Metaprogramming tools move alot of runtime calculations to be shifted to compile time.
+ros-kinetic-ecl-navigation - This stack aims to bring the common tools and algorithms needed to develop navigation algorithms, in particular slam.
+ros-kinetic-ecl-sigslots - Provides a signal/slot mechanism (in the same vein as qt sigslots, boost::signals etc for intra-process communication.
+ros-kinetic-ecl-sigslots-lite - This avoids use of dynamic storage (malloc/new) and thread safety (mutexes) to provide a very simple sigslots implementation that can be used for *very* embedded development.
+ros-kinetic-ecl-statistics - Common statistical structures and algorithms for control systems.
+ros-kinetic-ecl-streams - These are lightweight text streaming classes that connect to standardised ecl type devices.
+ros-kinetic-ecl-threads - This package provides the c++ extensions for a variety of threaded programming tools.
+ros-kinetic-ecl-time - Timing utilities are very dependent on the system api provided for their use.
+ros-kinetic-ecl-time-lite - Provides a portable set of time functions that are especially useful for porting other code or being wrapped by higher level c++ classes.
+ros-kinetic-ecl-tools - Tools and utilities for ecl development.
+ros-kinetic-ecl-type-traits - Extends c++ type traits and implements a few more to boot.
+ros-kinetic-ecl-utilities - Includes various supporting tools and utilities for c++ programming.
+ros-kinetic-ecto - Ecto is a hybrid C++/Python development framework for constructing and maintaining pipelines.
+ros-kinetic-ecto-image-pipeline - Common tools for image based pipelines.
+ros-kinetic-ecto-opencv - Ecto bindings for common opencv functionality.
+ros-kinetic-ecto-openni - Ecto bindings for the openni sensor.
+ros-kinetic-ecto-pcl - Ecto bindings for common PCL functionality.
+ros-kinetic-ecto-ros - A set of generic cells to interact with ROS
+ros-kinetic-effort-controllers - effort_controllers
+ros-kinetic-eigen-conversions - Conversion functions between: - Eigen and KDL - Eigen and geometry_msgs.
+ros-kinetic-eigen-stl-containers - This package provides a set of typedef's that allow using Eigen datatypes in STL containers
+ros-kinetic-eigen-typekit - An Orocos typekit for Eigen types.
+ros-kinetic-eml - This is an implementation of the EtherCAT master protocol for the PR2 robot based on the work done at Flanders' Mechatronics Technology Centre.
+ros-kinetic-ethercat-grant - Makes it possible to run the ros_ethercat_loop without using sudo.
+ros-kinetic-ethercat-hardware - Package for creating a hardware interface to the robot using the EtherCAT motor controller/driver
+ros-kinetic-ethercat-manager - ROS-Industrial support stack for facilitating communication with EtherCAT networks.
+ros-kinetic-ethercat-trigger-controllers - Controllers to operate the digital output of the motor controller boards and the projector board.
+ros-kinetic-eus-assimp - eus_assimp
+ros-kinetic-eus-nlopt - eus_nlopt
+ros-kinetic-eus-qp - eus_qp is an interface of euslisp to solve qp problems with linear constraints.
+ros-kinetic-eus-qpoases - eus_qpoases
+ros-kinetic-euscollada - euscollada
+ros-kinetic-euslisp - EusLisp is an integrated programming system for the research on intelligent robots based on Common Lisp and Object-Oriented programming
+ros-kinetic-eusurdf - urdf models converted from euslisp
+ros-kinetic-executive-smach - This metapackage depends on the SMACH library and ROS SMACH integration packages.
+ros-kinetic-executive-smach-visualization - This metapackage depends on the SMACH visualization tools.
+ros-kinetic-explore-lite - Lightweight frontier-based exploration.
+ros-kinetic-ez-interactive-marker - Easily create interactive markers from yaml files
+ros-kinetic-face-detector - Face detection in images.
+ros-kinetic-fake-localization - A ROS node that simply forwards odometry information.
+ros-kinetic-fcl-catkin - fcl_catkin
+ros-kinetic-feed-the-troll - Mechanisms for loading a ros node at runtime.
+ros-kinetic-feed-the-troll-msgs - Messages used to feed the trolls.
+ros-kinetic-ff - ff: pddl planner.
+ros-kinetic-ffha - ffha: PDDL Planner (http://ipc.informatik.uni-freiburg.de)
+ros-kinetic-fiducial-msgs - Package containing message definitions for fiducials
+ros-kinetic-fiducial-slam - ROS node to build a 3D map of fiducials and estimate robot pose from fiducial transforms
+ros-kinetic-fiducials - Localization using fiducial markers
+ros-kinetic-filters - This library provides a standardized interface for processing data as a sequence of filters.
+ros-kinetic-find-object-2d - The find_object_2d package
+ros-kinetic-fingertip-pressure - This package provides access to the PR2 fingertip pressure sensors.
+ros-kinetic-flask-cors - Cross Origin Resource Sharing ( CORS ) support for Flask
+ros-kinetic-flask-reverse-proxy - A Flask &quot;extension&quot; for applications in a reverse proxy not at the root.
+ros-kinetic-follow-waypoints - The follow_waypoints node will listen for waypoints given as poses and when instructed will follow them one by one by publishing goals to move_base.
+ros-kinetic-footstep-planner - A footstep planner for humanoid / biped robots.
+ros-kinetic-force-torque-sensor-controller - Controller to publish state of force-torque sensors
+ros-kinetic-forward-command-controller - forward_command_controller
+ros-kinetic-four-wheel-steering-controller - Controller for a four wheel steering mobile base.
+ros-kinetic-four-wheel-steering-msgs - ROS messages for robots using FourWheelSteering.
+ros-kinetic-frame-editor - The frame_editor package
+ros-kinetic-franka-control - franka_control provides a hardware node to control a Franka Emika research robot
+ros-kinetic-franka-description - franka_description contains URDF files and meshes of Franka Emika robots
+ros-kinetic-franka-example-controllers - franka_example_controllers provides example code for controlling Franka Emika research robots with ros_control
+ros-kinetic-franka-gripper - This package implements the franka gripper of type Franka Hand for the use in ros
+ros-kinetic-franka-hw - franka_hw provides hardware interfaces for using Franka Emika research robots with ros_control
+ros-kinetic-franka-msgs - franka_msgs provides messages specific to Franka Emika research robots
+ros-kinetic-franka-ros - franka_ros is a metapackage for all Franka Emika ROS packages
+ros-kinetic-franka-visualization - This package contains visualization tools for Franka Emika.
+ros-kinetic-freenect-camera - A libfreenect-based ROS driver for the Microsoft Kinect.
+ros-kinetic-freenect-launch - Launch files for freenect_camera to produce rectified, registered or disparity images.
+ros-kinetic-freenect-stack - A libfreenect-based ROS driver for the Microsoft Kinect
+ros-kinetic-frontier-exploration - Implementation of frontier exploration for ROS, extending on the existing navigation stack (costmap_2d, move_base).
+ros-kinetic-futaba-serial-servo - The futaba_serial_servo package
+ros-kinetic-fzi-icl-can - The fzi_icl_can package
+ros-kinetic-fzi-icl-comm - The fzi_icl_comm package
+ros-kinetic-fzi-icl-core - The fzi_icl_core package
+ros-kinetic-gateway-msgs - Messages used by the gateway model.
+ros-kinetic-gazebo-dev - Provides a cmake config for the default version of Gazebo for the ROS distribution.
+ros-kinetic-gazebo-msgs - Message and service data structures for interacting with Gazebo from ROS.
+ros-kinetic-gazebo-plugins - Robot-independent Gazebo plugins for sensors, motors and dynamic reconfigurable components.
+ros-kinetic-gazebo-ros - Provides ROS plugins that offer message and service publishers for interfacing with Gazebo through ROS.
+ros-kinetic-gazebo-ros-control - gazebo_ros_control
+ros-kinetic-gazebo-ros-pkgs - Interface for using ROS with the Gazebo simulator.
+ros-kinetic-gcloud-speech - Google Cloud Speech client.
+ros-kinetic-gcloud-speech-msgs - ROS message definitions for gcloud_speech and relevant packages.
+ros-kinetic-gcloud-speech-utils - Utilities and examples for gcloud_speech package.
+ros-kinetic-gencpp - C++ ROS message and service generators.
+ros-kinetic-generic-throttle - This package provides a throttle for ROS topics
+ros-kinetic-geneus - EusLisp ROS message and service generators.
+ros-kinetic-genjava - Java ROS message and service generators.
+ros-kinetic-genlisp - Common-Lisp ROS message and service generators.
+ros-kinetic-genmsg - Standalone Python library for generating ROS message and service data structures for various languages.
+ros-kinetic-gennodejs - Javascript ROS message and service generators.
+ros-kinetic-genpy - Python ROS message and service generators.
+ros-kinetic-genrs - Rust ROS message and service generators
+ros-kinetic-geodesy - Python and C++ interfaces for manipulating geodetic coordinates.
+ros-kinetic-geographic-info - Geographic information metapackage.
+ros-kinetic-geographic-msgs - ROS messages for Geographic Information Systems.
+ros-kinetic-geometric-shapes - This package contains generic definitions of geometric shapes and bodies.
+ros-kinetic-geometry - A metapackage for geometry library suite.
+ros-kinetic-geometry-msgs - geometry_msgs provides messages for common geometric primitives such as points, vectors, and poses.
+ros-kinetic-geometry-tutorials - Metapackage of geometry tutorials ROS.
+ros-kinetic-geometry2 - A metapackage to bring in the default packages second generation Transform Library in ros, tf2.
+ros-kinetic-gl-dependency - This encapsulates the GL dependency for a specific ROS distribution and its Qt version
+ros-kinetic-glkh-solver - ROS package for solving the Generalized Traveling Salesman Problem using the Lin–Kernighan heuristic.
+ros-kinetic-global-planner - A path planner library and node.
+ros-kinetic-gmapping - This package contains a ROS wrapper for OpenSlam's Gmapping.
+ros-kinetic-gmplot - ROS wrapping of gmplot library
+ros-kinetic-gmplot-msgs - Message definitions for gmplot ROS wrapper
+ros-kinetic-gmplot-ros - Metapackage for gmplot_ros
+ros-kinetic-gps-common - GPS messages and common routines for use in GPS drivers
+ros-kinetic-gps-goal - Set a ROS navigation goal using latitude and longitude.
+ros-kinetic-gps-umd - gps_umd metapackage
+ros-kinetic-gpsd-client - connects to a GPSd server and broadcasts GPS fixes using the NavSatFix message
+ros-kinetic-graph-msgs - ROS messages for publishing graphs of different data types
+ros-kinetic-grasping-msgs - Messages for describing objects and how to grasp them.
+ros-kinetic-grid-map - Meta-package for the universal grid map library.
+ros-kinetic-grid-map-core - Universal grid map library to manage two-dimensional grid maps with multiple data layers.
+ros-kinetic-grid-map-costmap-2d - Interface for grid maps to the costmap_2d format.
+ros-kinetic-grid-map-cv - Conversions between grid maps and OpenCV images.
+ros-kinetic-grid-map-demos - Demo nodes to demonstrate the usage of the grid map library.
+ros-kinetic-grid-map-filters - Processing grid maps as a sequence of ROS filters.
+ros-kinetic-grid-map-loader - Loading and publishing grid maps from bag files.
+ros-kinetic-grid-map-msgs - Definition of the multi-layered grid map message type.
+ros-kinetic-grid-map-octomap - Conversions between grid maps and OctoMap types.
+ros-kinetic-grid-map-pcl - Conversions between grid maps and Point Cloud Library (PCL) types.
+ros-kinetic-grid-map-ros - ROS interface for the grid map library to manage two-dimensional grid maps with multiple data layers.
+ros-kinetic-grid-map-rviz-plugin - RViz plugin for displaying grid map messages.
+ros-kinetic-grid-map-sdf - Generates signed distance fields from grid maps.
+ros-kinetic-grid-map-visualization - Configurable tool to visualize grid maps in RViz.
+ros-kinetic-gridmap-2d - gridmap_2d - a simple 2D gridmap structure, based on OpenCV's cv::Mat
+ros-kinetic-gripper-action-controller - The gripper_action_controller package
+ros-kinetic-grpc - Catkinized gRPC Package
+ros-kinetic-gscam - A ROS camera driver that uses gstreamer to connect to devices such as webcams.
+ros-kinetic-gx-sound - The gx_sound package
+ros-kinetic-gx-sound-msgs - The gx_sound_msgs package
+ros-kinetic-gx-sound-player - The gx_sound_player package
+ros-kinetic-handeye - The handeye package
+ros-kinetic-hardware-interface - Hardware Interface base class.
+ros-kinetic-hebiros-description - Models for Hebi components and hebiros
+ros-kinetic-hector-components-description - hector_components_description contains URDF xacro macros for robot components, so they are easily attachable to robot models.
+ros-kinetic-hector-compressed-map-transport - hector_compressed_map_transport provides means for transporting compressed map data through the use of image_transport.
+ros-kinetic-hector-gazebo - hector_gazebo provides packages related to to simulation of robots using gazebo (gazebo plugins, world files etc.)
+ros-kinetic-hector-gazebo-plugins - hector_gazebo_plugins provides gazebo plugins from Team Hector.
+ros-kinetic-hector-gazebo-thermal-camera - hector_gazebo_thermal_camera provides a gazebo plugin that produces simulated thermal camera images.
+ros-kinetic-hector-gazebo-worlds - hector_gazebo_worlds provides gazebo scenarios used by Team Hector Darmstadt
+ros-kinetic-hector-geotiff - hector_geotiff provides a node that can be used to save occupancy grid map, robot trajectory and object of interest data to RoboCup Rescue compliant GeoTiff images.
+ros-kinetic-hector-geotiff-plugins - hector_geotiff_plugins contains plugins that extend geotiff maps generated by hector_geotiff.
+ros-kinetic-hector-imu-attitude-to-tf - hector_imu_attitude_to_tf is a lightweight node that can be used to publish the roll/pitch attitude angles reported via a imu message to tf.
+ros-kinetic-hector-imu-tools - hector_imu_tools provides some tools for processing IMU messages
+ros-kinetic-hector-localization - The hector_localization stack is a collection of packages, that provide the full 6DOF pose of a robot or platform.
+ros-kinetic-hector-map-server - hector_map_server provides a service for retrieving the map, as well as for raycasting based obstacle queries (finds next obstacle in the map, given start and endpoint in any tf coordinate frame).
+ros-kinetic-hector-map-tools - hector_map_tools contains some functions related to accessing information from OccupancyGridMap maps.
+ros-kinetic-hector-mapping - hector_mapping is a SLAM approach that can be used without odometry as well as on platforms that exhibit roll/pitch motion (of the sensor, the platform or both).
+ros-kinetic-hector-marker-drawing - hector_marker_drawing provides convenience functions for easier publishing of visualization markers.
+ros-kinetic-hector-models - hector_models contains (urdf) models of robots, sensors etc.
+ros-kinetic-hector-nav-msgs - hector_nav_msgs contains messages and services used in the hector_slam stack.
+ros-kinetic-hector-object-tracker - hector_object_tracker is the core package of hector_worldmodel.
+ros-kinetic-hector-pose-estimation - hector_pose_estimation provides the hector_pose_estimation node and the hector_pose_estimation nodelet.
+ros-kinetic-hector-pose-estimation-core - hector_pose_estimation_core is the core package of the hector_localization stack.
+ros-kinetic-hector-sensors-description - hector_sensors_description contains URDF xacro macros for sensors, so they are easily attachable to robot models and usable in gazebo.
+ros-kinetic-hector-sensors-gazebo - hector_sensors_gazebo depends on the necessary plugins for using the sensors from the hector_models repository.
+ros-kinetic-hector-slam - The hector_slam metapackage that installs hector_mapping and related packages.
+ros-kinetic-hector-slam-launch - hector_slam_launch contains launch files for launching hector_slam with different robot systems/setups/postprocessing scenarios.
+ros-kinetic-hector-trajectory-server - hector_trajectory_server keeps track of tf trajectories extracted from tf data and makes this data accessible via a service and topic.
+ros-kinetic-hector-worldmodel - The hector_worldmodel stack helps to collect and fuse information about objects in the world.
+ros-kinetic-hector-worldmodel-geotiff-plugins - hector_worldmodel_geotiff_plugins contains a plugin to visualize worldmodel objects (e.g.
+ros-kinetic-hector-worldmodel-msgs - hector_worldmodel_msgs is a message package to comes with the hector_worldmodel stack.
+ros-kinetic-hector-xacro-tools - hector_xacro_tools
+ros-kinetic-heron-description - URDF description for Heron
+ros-kinetic-heron-desktop - The heron_desktop metapackage
+ros-kinetic-heron-msgs - Provides standard messages specific to Heron, especially for the microcontroller's rosserial interface.
+ros-kinetic-heron-viz - Visualization and rviz helpers for Heron.
+ros-kinetic-hironx-calibration - Launch and configuration files for calibrating hironx using the generic calibration_setup_helper package.
+ros-kinetic-hironx-moveit-config - An automatically generated package with all the configuration and launch files for using the HiroNX with the MoveIt Motion Planning Framework
+ros-kinetic-hironx-ros-bridge - ROS-OpenRTM interfacing package for the opensource version of Kawada's Hiro/NEXTAGE dual-arm robot.
+ros-kinetic-hls-lfcd-lds-driver - ROS package for LDS(HLS-LFCD2).
+ros-kinetic-hokuyo3d - ROS driver node for HOKUYO 3D LIDARs
+ros-kinetic-homer-map-manager - map_manager
+ros-kinetic-homer-mapnav-msgs - homer_mapnav_msgs contains the messages used for mapping and navigation
+ros-kinetic-homer-mapping - homer_mapping
+ros-kinetic-homer-mary-tts - The homer_mary_tts package
+ros-kinetic-homer-msgs - The homer_msgs package
+ros-kinetic-homer-nav-libs - The nav_libs package
+ros-kinetic-homer-navigation - The homer_navigation package
+ros-kinetic-homer-ptu-msgs - The ptu_msgs package
+ros-kinetic-homer-robbie-architecture - robbie_architecture
+ros-kinetic-homer-robot-face - An application to display a talking head on your robot for human robot interaction.
+ros-kinetic-household-objects-database-msgs - The household_objects_database_msgs package
+ros-kinetic-hrpsys - An OpenRTM-aist-based robot controller.
+ros-kinetic-hrpsys-ros-bridge - hrpsys_ros_bridge package provides basic functionalities to bind hrpsys, a OpenRTM-based controller, and ROS.
+ros-kinetic-hrpsys-tools - The hrpsys_tools package
+ros-kinetic-hugin-panorama - Create panoramas in ROS using image snapshots or multiple video streams.
+ros-kinetic-humanoid-localization - 6D localization for humanoid robots based on depth data (laser, point clouds).
+ros-kinetic-humanoid-msgs - Messages and services for humanoid robots
+ros-kinetic-humanoid-nav-msgs - Messages and services for humanoid robot navigation
+ros-kinetic-humanoid-navigation - This stack contains packages for humanoid (biped) navigation, developed at the Humanoid Robots Lab at the Albert-Ludwigs-Universitat in Freiburg, Germany.
+ros-kinetic-humanoid-planner-2d - humanoid_planner_2d - provides a simple 2D path planner as wrapper around SBPL (ARA*, AD*, R*).
+ros-kinetic-husky-base - Clearpath Husky robot driver
+ros-kinetic-husky-bringup - Clearpath Husky installation and integration package
+ros-kinetic-husky-control - Clearpath Husky controller configurations
+ros-kinetic-husky-description - Clearpath Husky URDF description
+ros-kinetic-husky-desktop - Metapackage for Clearpath Husky visualization software
+ros-kinetic-husky-gazebo - Clearpath Husky Simulator bringup
+ros-kinetic-husky-msgs - Messages for Clearpath Husky
+ros-kinetic-husky-navigation - Autonomous mapping and navigation demos for the Clearpath Husky
+ros-kinetic-husky-robot - Metapackage for Clearpath Husky robot software
+ros-kinetic-husky-simulator - Metapackage for Clearpath Husky simulation software
+ros-kinetic-husky-viz - Visualization configuration for Clearpath Husky
+ros-kinetic-ibeo-msgs - Package containing messages for Ibeo sensors.
+ros-kinetic-ifm-o3mxxx - The ifm_o3mxxx package
+ros-kinetic-ifopt - Provides a unified Eigen- based interface to use Nonlinear Programming solvers such as Ipopt and Snopt.
+ros-kinetic-ifopt-core - Provides a unified Eigen- based interface to use Nonlinear Programming solvers such as Ipopt and Snopt.
+ros-kinetic-ifopt-ipopt - The interface to solve a problem defined with Ifopt using Ipopt.
+ros-kinetic-ifopt-snopt - The interface to solve a problem defined with Ifopt using Snopt.
+ros-kinetic-image-cb-detector - Provide a node that extracts checkerboard corners from ROS images.
+ros-kinetic-image-common - Common code for working with images in ROS.
+ros-kinetic-image-exposure-msgs - Messages related to the Point Grey camera driver.
+ros-kinetic-image-geometry - `image_geometry` contains C++ and Python libraries for interpreting images geometrically.
+ros-kinetic-image-overlay-scale-and-compass - Add an indication of scale and compass to images.
+ros-kinetic-image-pipeline - image_pipeline fills the gap between getting raw images from a camera driver and higher-level vision processing.
+ros-kinetic-image-proc - Single image rectification and color processing.
+ros-kinetic-image-publisher - Contains a node publish an image stream from single image file or avi motion file.
+ros-kinetic-image-recognition - The image_recognition package
+ros-kinetic-image-recognition-msgs - The image_recognition_msgs package
+ros-kinetic-image-recognition-rqt - The image_recognition_rqt package
+ros-kinetic-image-recognition-util - The image_recognition_util package
+ros-kinetic-image-rotate - Contains a node that rotates an image stream in a way that minimizes the angle between a vector in some arbitrary frame and a vector in the camera frame.
+ros-kinetic-image-stream - rosweb plugin to serve images as streams (MJPEG, Theora, FLV, etc)
+ros-kinetic-image-transport - image_transport should always be used to subscribe to and publish images.
+ros-kinetic-image-transport-plugins - A set of plugins for publishing and subscribing to sensor_msgs/Image topics in representations other than raw pixel data.
+ros-kinetic-image-view - A simple viewer for ROS image topics.
+ros-kinetic-image-view2 - A simple viewer for ROS image topics with draw-on features
+ros-kinetic-imagesift - For every image, computes its sift features and send a new message with the image, its intrinsic parameters, and the features.
+ros-kinetic-imagezero - ImageZero is a fast lossless image compression algorithm for RGB color photos.
+ros-kinetic-imagezero-image-transport - A plugin to image_transport for transparently sending images encoded with ImageZero.
+ros-kinetic-imagezero-ros - A library that provides convenient methods for manipulating ROS images with ImageZero
+ros-kinetic-imu-compass - Node to combine IMU data (accelerometers and gyroscopes) with Compass data (magnetometers) for a cleaner reading of a Vehicles Heading
+ros-kinetic-imu-complementary-filter - Filter which fuses angular velocities, accelerations, and (optionally) magnetic readings from a generic IMU device into a quaternion to represent the orientation of the device wrt the global frame.
+ros-kinetic-imu-filter-madgwick - Filter which fuses angular velocities, accelerations, and (optionally) magnetic readings from a generic IMU device into an orientation.
+ros-kinetic-imu-monitor - This package contains a single node that monitors the drift of the IMU gyroscopes.
+ros-kinetic-imu-pipeline - imu_pipeline
+ros-kinetic-imu-processors - Processors for sensor_msgs::Imu data
+ros-kinetic-imu-sensor-controller - Controller to publish state of IMU sensors
+ros-kinetic-imu-tools - Various tools for IMU devices
+ros-kinetic-imu-transformer - Node/nodelet combination to transform sensor_msgs::Imu data from one frame into another.
+ros-kinetic-industrial-core - ROS-Industrial core stack contains packages and libraries for supporing industrial systems
+ros-kinetic-industrial-deprecated - The Industrial deprecated package contains nodes, launch files, etc...
+ros-kinetic-industrial-msgs - The industrial message package containes industrial specific messages definitions.
+ros-kinetic-industrial-robot-client - industrial robot client contains generic clients for connecting to industrial robot controllers with servers that adhere to the simple message protocol.
+ros-kinetic-industrial-robot-simulator - The industrial robot simulator is a stand in for industrial robot driver node(s).
+ros-kinetic-industrial-trajectory-filters - ROS Industrial libraries/plugins for filtering trajectories.
+ros-kinetic-industrial-utils - Industrial utils is a library package that captures common funcitonality for the ROS-Industrial distribution.
+ros-kinetic-innok-heros-driver - Driver for the Innok Heros robot plattform
+ros-kinetic-interactive-marker-proxy - A Proxy Server for Interactive Markers
+ros-kinetic-interactive-marker-tutorials - The interactive_marker_tutorials package
+ros-kinetic-interactive-marker-twist-server - Interactive control for generic Twist-based robots using interactive markers
+ros-kinetic-interactive-markers - 3D interactive marker communication library for RViz and similar tools.
+ros-kinetic-interval-intersection - Tools for calculating the intersection of interval messages coming in on several topics.
+ros-kinetic-iot-bridge - The iot_bridge provides a bi-directional bridge between ROS and the OpenHAB Home Automation system.
+ros-kinetic-ivcon - Mesh Conversion Utility Used to generate '.iv' files from '.stl' files.
+ros-kinetic-jackal-control - Controllers for Jackal
+ros-kinetic-jackal-description - URDF robot description for Jackal
+ros-kinetic-jackal-desktop - Packages for working with Jackal from a ROS desktop.
+ros-kinetic-jackal-gazebo - Launchfiles to use Jackal in Gazebo.
+ros-kinetic-jackal-msgs - Messages exclusive to Jackal, especially for representing low-level motor commands and sensors.
+ros-kinetic-jackal-navigation - Launch files and code for autonomous navigation of the Jackal
+ros-kinetic-jackal-simulator - Packages for simulating Jackal.
+ros-kinetic-jackal-tutorials - Jackal's tutorials.
+ros-kinetic-jackal-viz - Visualization launchers and helpers for Jackal.
+ros-kinetic-jaguar-control - DrRobot's Jaguar 4X4 controller configurations
+ros-kinetic-jaguar-description - A robot description package for Dr Robot's Jaguar 4x4
+ros-kinetic-jaguar-msgs - Messages for DrRobot's Jaguar 4X4
+ros-kinetic-jaguar-navigation - Navigation package for DrRobot's Jaguar 4X4
+ros-kinetic-jog-arm - Provides manipulator cartesian jogging.
+ros-kinetic-joint-limits-interface - Interface for enforcing joint limits.
+ros-kinetic-joint-state-controller - Controller to publish joint state
+ros-kinetic-joint-state-publisher - This package contains a tool for setting and publishing joint state values for a given URDF.
+ros-kinetic-joint-states-settler - Provides a node that reports how long a subset of joints has been settled.
+ros-kinetic-joint-trajectory-action - The joint_trajectory_action is a node that exposes an action interface to a joint trajectory controller.
+ros-kinetic-joint-trajectory-action-tools - joint_trajectory_action_tools
+ros-kinetic-joint-trajectory-controller - Controller for executing joint-space trajectories on a group of joints.
+ros-kinetic-joint-trajectory-generator - joint_trajectory_generator action takes in a trajectory specified by a number of joint positions, and it generates a new smooth trajectory through these joint positions.
+ros-kinetic-joy - ROS driver for a generic Linux joystick.
+ros-kinetic-joy-listener - Translates joy msgs
+ros-kinetic-joy-mouse - The joy_mouse package
+ros-kinetic-joy-teleop - A (to be) generic joystick interface to control a robot
+ros-kinetic-joystick-drivers - This metapackage depends on packages for interfacing common joysticks and human input devices with ROS.
+ros-kinetic-jpeg-streamer - tools for streaming JPEG-formatted CompressedImage topics over HTTP
+ros-kinetic-jsk-3rdparty - Metapackage that contains commonly used 3rdparty toolset for jsk-ros-pkg
+ros-kinetic-jsk-calibration - The jsk_calibration package
+ros-kinetic-jsk-common - Metapackage that contains commonly used toolset for jsk-ros-pkg
+ros-kinetic-jsk-common-msgs - Metapackage that contains commonly used messages for jsk-ros-pkg
+ros-kinetic-jsk-control - The jsk_control package
+ros-kinetic-jsk-data - The jsk_data package
+ros-kinetic-jsk-footstep-controller - The jsk_footstep_controller package
+ros-kinetic-jsk-footstep-msgs - jsk_footstep_msgs
+ros-kinetic-jsk-footstep-planner - jsk_footstep_planner
+ros-kinetic-jsk-gui-msgs - jsk_gui_msgs
+ros-kinetic-jsk-hark-msgs - jsk_hark_msgs
+ros-kinetic-jsk-ik-server - jsk_ik_server
+ros-kinetic-jsk-interactive - jsk_interactive
+ros-kinetic-jsk-interactive-marker - jsk interactive markers
+ros-kinetic-jsk-interactive-test - jsk_interactive_test
+ros-kinetic-jsk-model-tools - Metapackage that contains model_tools package for jsk-ros-pkg
+ros-kinetic-jsk-network-tools - jsk_network_tools
+ros-kinetic-jsk-pcl-ros - ROS nodelets for pointcloud perception.
+ros-kinetic-jsk-pcl-ros-utils - ROS utility nodelets for pointcloud perception.
+ros-kinetic-jsk-perception - ROS nodes and nodelets for 2-D image perception.
+ros-kinetic-jsk-planning - Metapackage that contains planning package for jsk-ros-pkg
+ros-kinetic-jsk-pr2eus - Metapackage that contains robot eus client package for jsk-ros-pkg
+ros-kinetic-jsk-recognition - Metapackage that contains recognition package for jsk-ros-pkg
+ros-kinetic-jsk-recognition-msgs - ROS messages for jsk_pcl_ros and jsk_perception.
+ros-kinetic-jsk-recognition-utils - C++ library about sensor model, geometrical modeling and perception.
+ros-kinetic-jsk-roseus - Metapackage that contains roseus package for jsk-ros-pkg
+ros-kinetic-jsk-rqt-plugins - The jsk_rqt_plugins package
+ros-kinetic-jsk-rviz-plugins - The jsk_rviz_plugins package
+ros-kinetic-jsk-teleop-joy - jsk_teleop_joy
+ros-kinetic-jsk-tilt-laser - The jsk_tilt_laser package
+ros-kinetic-jsk-tools - Includes emacs scripts, ros tool alias generator, and launch doc generator.
+ros-kinetic-jsk-topic-tools - jsk_topic_tools
+ros-kinetic-jsk-visualization - Metapackage that contains visualization package for jsk-ros-pkg
+ros-kinetic-jskeus - EusLisp software developed and used by JSK at The University of Tokyo
+ros-kinetic-json-msgs - JSON ROS message
+ros-kinetic-json-transport - JSON transport for ROS
+ros-kinetic-julius - julius: Open-Source Large Vocabulary CSR Engine (http://julius.sourceforge.jp/index.php)
+ros-kinetic-julius-ros - The julius_ros package
+ros-kinetic-kalman-filter - Simple Kalman Filter in Python
+ros-kinetic-kartech-linear-actuator-msgs - The kartech_linear_actuator_msgs package
+ros-kinetic-katana - This package provides ROS interfaces to the Neuronics Katana 450 arm.
+ros-kinetic-katana-arm-gazebo - This package starts a Neuronics Katana robot arm in the Gazebo simulation environment.
+ros-kinetic-katana-description - This package contains an URDF description of the Katana arm and all supporting mesh files.
+ros-kinetic-katana-driver - This stack contains all descriptions, drivers and bringup facilities for Neuronics Katana 450 arm.
+ros-kinetic-katana-gazebo-plugins - This package provides Gazebo plugins to simulate the Katana arm.
+ros-kinetic-katana-moveit-ikfast-plugin - The katana_moveit_ikfast_plugin package
+ros-kinetic-katana-msgs - This package contains messages specific to the Neuronics Katana arm.
+ros-kinetic-katana-teleop - This package provides tele-operation nodes to control the Neuronics Katana 450 arm via keyboard commands or with a playstation 3 controller.
+ros-kinetic-katana-tutorials - This package contains test and demo programs for the katana_driver stack.
+ros-kinetic-kdl-conversions - Conversion functions between KDL and geometry_msgs types.
+ros-kinetic-kdl-parser - The Kinematics and Dynamics Library (KDL) defines a tree structure to represent the kinematic and dynamic parameters of a robot mechanism.
+ros-kinetic-kdl-parser-py - The Kinematics and Dynamics Library (KDL) defines a tree structure to represent the kinematic and dynamic parameters of a robot mechanism.
+ros-kinetic-kdl-typekit - This package contains the KDL RTT bindings
+ros-kinetic-key-teleop - A text-based interface to send a robot movement commands
+ros-kinetic-kni - This package provides the third-party KNI (Katana Native Interface) library for Katana robot arms.
+ros-kinetic-kobuki - Software for Kobuki, Yujin Robot's mobile research base.
+ros-kinetic-kobuki-auto-docking - Automatic docking for Kobuki: Users owning a docking station for Kobuki can use this tool to let Kobuki find its nest autonomously.
+ros-kinetic-kobuki-bumper2pc - Bumper/cliff to pointcloud nodelet: Publish bumpers and cliff sensors events as points in a pointcloud, so navistack can use them for poor-man navigation.
+ros-kinetic-kobuki-capabilities - Kobuki's capabilities
+ros-kinetic-kobuki-controller-tutorial - Code for the Kobuki controller tutorial.
+ros-kinetic-kobuki-core - Non-ROS software for Kobuki, Yujin Robot's mobile research base.
+ros-kinetic-kobuki-dashboard - The Kobuki dashboard is a RQT-based plug-in for visualising data from Kobuki and giving easy access to basic functionalities.
+ros-kinetic-kobuki-description - Description of the Kobuki model.
+ros-kinetic-kobuki-desktop - Visualisation and simulation tools for Kobuki
+ros-kinetic-kobuki-dock-drive - Dock driving library for Kobuki.
+ros-kinetic-kobuki-driver - C++ driver library for Kobuki: Pure C++ driver library for Kobuki.
+ros-kinetic-kobuki-ftdi - Utilities for flashing and enabling Kobuki's USB connection.
+ros-kinetic-kobuki-gazebo - Kobuki simulation for Gazebo
+ros-kinetic-kobuki-gazebo-plugins - Kobuki-specific ROS plugins for Gazebo
+ros-kinetic-kobuki-keyop - Keyboard teleoperation for Kobuki: relays commands from a keyboard to Kobuki.
+ros-kinetic-kobuki-msgs - Kobuki message and service types: custom messages and services for Kobuki packages.
+ros-kinetic-kobuki-node - ROS nodelet for Kobuki: ROS wrapper for the Kobuki driver.
+ros-kinetic-kobuki-qtestsuite - An rqt plugin that provides a graphical, interactive testsuite for Kobuki.
+ros-kinetic-kobuki-random-walker - Random walker app for Kobuki
+ros-kinetic-kobuki-rapps - Robot apps for Kobuki
+ros-kinetic-kobuki-rviz-launchers - The kobuki_rviz_launchers package
+ros-kinetic-kobuki-safety-controller - A controller ensuring the safe operation of Kobuki.
+ros-kinetic-kobuki-soft - Soft kobuki impementation meta package
+ros-kinetic-kobuki-softapps - The kobuki_softapps package
+ros-kinetic-kobuki-softnode - ROS nodelet for fake Kobuki.
+ros-kinetic-kobuki-testsuite - Kobuki test suite: this package provides tools to thoroughly test Kobuki's hardware.
+ros-kinetic-korg-nanokontrol - ROS driver to use the Kork NanoKontrol MIDI device as a joystick.
+ros-kinetic-kvh - A driver for the KVH DSP-3000 single-axis Fiber Optic Gyroscope.
+ros-kinetic-laptop-battery-monitor - Simple script to check battery status
+ros-kinetic-laser-assembler - Provides nodes to assemble point clouds from either LaserScan or PointCloud messages
+ros-kinetic-laser-cb-detector - Extracts checkerboard corners from a dense laser snapshot.
+ros-kinetic-laser-filtering - ROS Libraries for filtering specific kinds of laser scans
+ros-kinetic-laser-filters - Assorted filters designed to operate on 2D planar laser scanners, which use the sensor_msgs/LaserScan type.
+ros-kinetic-laser-geometry - This package contains a class for converting from a 2D laser scan as defined by sensor_msgs/LaserScan into a point cloud as defined by sensor_msgs/PointCloud or sensor_msgs/PointCloud2.
+ros-kinetic-laser-joint-processor - Computes joint angles associated with a specific set of detected checkerboard corners.
+ros-kinetic-laser-joint-projector - Projects laser readings into a point cloud, based on a set of recorded joint angles This package is experimental and unstable.
+ros-kinetic-laser-ortho-projector - The laser_ortho_projector package calculates orthogonal projections of LaserScan messages.
+ros-kinetic-laser-pipeline - Meta-package of libraries for processing laser data, including converting laser data into 3D representations.
+ros-kinetic-laser-proc - laser_proc
+ros-kinetic-laser-scan-matcher - An incremental laser scan matcher, using Andrea Censi's Canonical Scan Matcher (CSM) implementation.
+ros-kinetic-laser-scan-publisher-tutorial - The laser_scan_publisher_tutorial package
+ros-kinetic-laser-scan-sparsifier - The laser_scan_sparsifier takes in a LaserScan message and sparsifies it.
+ros-kinetic-laser-scan-splitter - The laser_scan_splitter takes in a LaserScan message and splits it into a number of other LaserScan messages.
+ros-kinetic-laser-tilt-controller-filter - laser_tilt_controller_filter
+ros-kinetic-launch-tools - ROS tools and scripts related to launchfiles
+ros-kinetic-launchman - Launch Manager
+ros-kinetic-leap-motion - ROS driver for the Leap Motion gesture sensor
+ros-kinetic-libcmt - libCMT ROS Wrapper
+ros-kinetic-libconcorde-tsp-solver - Wrapper for the concorde traveling salesman problem solver.
+ros-kinetic-libcreate - C++ library for interfacing with iRobot's Create 1 and Create 2
+ros-kinetic-libdlib - This package wraps the external c++ library dlib (http://dlib.net/) in a ROS package, so other packages can use it.
+ros-kinetic-libfranka - libfranka is a C++ library for Franka Emika research robots
+ros-kinetic-libfreenect - Open source libraries that will enable the Kinect to be used with Windows, Linux, and Mac.
+ros-kinetic-libg2o - The libg2o library from http://openslam.org/g2o.html
+ros-kinetic-libmavconn - MAVLink communication library.
+ros-kinetic-libmongocxx-ros - A wrapper for the libmongocxx for mongodb_store
+ros-kinetic-libntcan - This package wraps the libntcan to use it as a ros dependency.
+ros-kinetic-libpcan - This package wraps the libpcan to use it as a ros dependency
+ros-kinetic-libphidget21 - This package wraps the libphidget21 to use it as a ROS dependency
+ros-kinetic-libphidgets - This package wraps the libphidgets to use it as a ros dependency
+ros-kinetic-libqsopt - Wrapper for the Qsopt linear programming solver.
+ros-kinetic-librealsense - Library for capturing data from the Intel(R) RealSense(TM) F200, SR300, R200, LR200 and ZR300 cameras.
+ros-kinetic-librviz-tutorial - Tutorial showing how to compile your own C++ program with RViz displays and features.
+ros-kinetic-libsensors-monitor - A ROS node for using libsensors to provide diagnostics information about the sensors on a computer system.
+ros-kinetic-libsiftfast - Library to compute SIFT features
+ros-kinetic-libuvc - USB Video Class driver library
+ros-kinetic-libuvc-camera - USB Video Class camera driver
+ros-kinetic-libuvc-ros - libuvc_ros metapackage
+ros-kinetic-linux-peripheral-interfaces - Simple scripts which help utilise, monitor, interact with computer hardware abstracted by a linux OS.
+ros-kinetic-lkh - ROS packages for solving the TSP and GTSP problems using LKH heuristic
+ros-kinetic-lkh-solver - ROS package for solving the Traveling Salesman Problem using the Lin-Kernighan heuristic.
+ros-kinetic-lms1xx - The lms1xx package contains a basic ROS driver for the SICK LMS1xx line of LIDARs.
+ros-kinetic-lockfree - The lockfree package contains lock-free data structures for use in multithreaded programming.
+ros-kinetic-log-server - The log_server package
+ros-kinetic-log4cpp - Log4cpp maintained by Orocos developers This version of log4cpp deviates from the official release by adding custom category factories.
+ros-kinetic-loki-base-node - loki_base_node has a ROS node to communicate with the Loki robot base and allow communication with the motors and sonars
+ros-kinetic-loki-bringup - The loki_bringup package
+ros-kinetic-loki-demos - The loki_demos package
+ros-kinetic-loki-description - The loki_description package
+ros-kinetic-loki-nav - The loki_nav package
+ros-kinetic-loki-robot - Metapackage for loki configuration
+ros-kinetic-loki-teleop - The loki_teleop package
+ros-kinetic-look-at-pose - Rotate camera to look at a given pose.
+ros-kinetic-lost-comms-recovery - If your robot loses connection to the base station it will stop motors or navigate home.
+ros-kinetic-lpg-planner - lpg_planner: LPGL Planner (http://zeus.ing.unibs.it/lpg/)
+ros-kinetic-lyap-control - A node to control nonlinear dynamic systems
+ros-kinetic-magni-bringup - The magni_bringup package
+ros-kinetic-magni-demos - The magni_demos package
+ros-kinetic-magni-description - The magni_description package
+ros-kinetic-magni-nav - The magni_nav package
+ros-kinetic-magni-robot - The magni_robot package
+ros-kinetic-magni-teleop - The magni_teleop package
+ros-kinetic-manipulation-msgs - The manipulation_msgs package
+ros-kinetic-manipulator-h - ROS packages for the ROBOTIS MANIPULATOR-H (metapackage)
+ros-kinetic-manipulator-h-base-module - The manipulator_h_base_module package This package describes basic function to control ROBOTIS MANIPULATOR-H.
+ros-kinetic-manipulator-h-base-module-msgs - The manipulator_h_base_module_msgs package This package includes ROS messages and services for manipulator_h_base_module_msgs
+ros-kinetic-manipulator-h-bringup - The manipulator_h_bringup package This package includes launch file to describe robotis in Rviz.
+ros-kinetic-manipulator-h-description - The manipulator_h_description package This package includes URDF model of ROBOTIS MANIPULATOR-H.
+ros-kinetic-manipulator-h-gazebo - The manipulator_h_gazebo package This package provides GAZEBO simulation environment for ROBOTIS MANIPULATOR-H.
+ros-kinetic-manipulator-h-gui - The manipulator_h_gui package This package provides simple GUI to control ROBOTIS MANIPULATOR-H.
+ros-kinetic-manipulator-h-kinematics-dynamics - The manipulator_h_kinematics_dynamics package This packages provides library of kinematics and dynamics information for ROBOTIS MANIPULATOR-H.
+ros-kinetic-manipulator-h-manager - The manipulator_h_manager package This package describes robot manager to execute manipulator_h_base_module.
+ros-kinetic-map-laser - Filters a laser scan to remove points that are in the current static map
+ros-kinetic-map-msgs - This package defines messages commonly used in mapping packages.
+ros-kinetic-map-server - map_server provides the map_server ROS Node, which offers map data as a ROS Service.
+ros-kinetic-mapviz - mapviz
+ros-kinetic-mapviz-plugins - Common plugins for the Mapviz visualization tool
+ros-kinetic-marker-msgs - The marker_msgs package contains messages usable to setup a marker/fiducial system.
+ros-kinetic-marker-rviz-plugin - The marker_rviz_plugin package contains RViz plugins to visualize messages of the marker_msgs package using RViz.
+ros-kinetic-marshmallow - A lightweight library for converting complex objects to and from simple Python datatypes.
+ros-kinetic-marti-can-msgs - marti_can_msgs
+ros-kinetic-marti-common-msgs - marti_common_msgs
+ros-kinetic-marti-data-structures - marti_data_structures
+ros-kinetic-marti-nav-msgs - marti_nav_msgs
+ros-kinetic-marti-perception-msgs - marti_perception_msgs
+ros-kinetic-marti-sensor-msgs - marti_sensor_msgs
+ros-kinetic-marti-status-msgs - marti_status_msgs
+ros-kinetic-marti-visualization-msgs - marti_visualization_msgs
+ros-kinetic-marvelmind-nav - Marvelmind local navigation system
+ros-kinetic-master-discovery-fkie - Discover the running ROS Masters in local network.
+ros-kinetic-master-sync-fkie - Synchronize the local ROS master to the remote masters discovered by master_discovery_fkie node.
+ros-kinetic-mav-comm - Contains messages and services for MAV communication
+ros-kinetic-mav-msgs - Package containing messages for communicating with rotary wing MAVs
+ros-kinetic-mavlink - MAVLink message marshaling library.
+ros-kinetic-mavros - MAVROS -- MAVLink extendable communication node for ROS with proxy for Ground Control Station.
+ros-kinetic-mavros-extras - Extra nodes and plugins for MAVROS.
+ros-kinetic-mavros-msgs - mavros_msgs defines messages for MAVROS.
+ros-kinetic-mbf-abstract-core - This package provides common interfaces for navigation specific robot actions.
+ros-kinetic-mbf-abstract-nav - The mbf_abstract_nav package contains the abstract navigation server implementation of Move Base Flex (MBF).
+ros-kinetic-mbf-costmap-core - This package provides common interfaces for navigation specific robot actions.
+ros-kinetic-mbf-costmap-nav - The mbf_costmap_nav package contains the costmap navigation server implementation of Move Base Flex (MBF).
+ros-kinetic-mbf-msgs - The move_base_flex messages package providing the action definition files for the action GetPath, ExePath, Recovery and MoveBase.
+ros-kinetic-mbf-simple-nav - The mbf_simple_nav package contains a simple navigation server implementation of Move Base Flex (MBF).
+ros-kinetic-mbf-utility - The mbf_utility package
+ros-kinetic-mcl-3dl - The mcl_3dl package
+ros-kinetic-md49-base-controller - The md49_base_controller package
+ros-kinetic-md49-messages - The md49_messages package
+ros-kinetic-md49-serialport - The md49_serialport package
+ros-kinetic-mecanum-gazebo-plugin - Plugin which uses directional friction to simulate mecanum wheels.
+ros-kinetic-media-export - Placeholder package enabling generic export of media paths.
+ros-kinetic-message-filters - A set of message filters which take in messages and may output those messages at a later time, based on the conditions that filter needs met.
+ros-kinetic-message-generation - Package modeling the build-time dependencies for generating language bindings of messages.
+ros-kinetic-message-relay - Package to programmatically spawn message, service, and action relays.
+ros-kinetic-message-runtime - Package modeling the run-time dependencies for language bindings of messages.
+ros-kinetic-message-to-tf - message_to_tf translates pose information from different kind of common_msgs message types to tf.
+ros-kinetic-micros-swarm-framework - This is a programming framework to facilitate application development involving robot swarms.
+ros-kinetic-microstrain-3dmgx2-imu - A driver for IMUs compatible the microstrain 3DM-GX2 and 3DM-GX3 protocol.
+ros-kinetic-minas - Meta package for minas for PANASONIC MINAS EtherCAT Motor Driver Control System
+ros-kinetic-minas-control - This package contains ros_control based robot controller for PANASONIC MINAS EtherCAT Motor Driver Control System
+ros-kinetic-mini-maxwell - mini_maxwell
+ros-kinetic-mk - A collection of .mk include files for building ROS architectural elements.
+ros-kinetic-mobileye-560-660-msgs - Message definitions for the Mobileye 560/660
+ros-kinetic-mongodb-log - The mongodb_log package
+ros-kinetic-mongodb-store - A package to support MongoDB-based storage and analysis for data from a ROS system, eg.
+ros-kinetic-mongodb-store-msgs - The mongodb_store_msgs package
+ros-kinetic-monocam-settler - Listens on a ImageFeatures topic, and waits for the data to settle.
+ros-kinetic-motion-module-tutorial - The motion_module_tutorial package
+ros-kinetic-mouse-teleop - A mouse teleop tool for holonomic mobile robots.
+ros-kinetic-move-base - The move_base package provides an implementation of an action (see the actionlib package) that, given a goal in the world, will attempt to reach it with a mobile base.
+ros-kinetic-move-base-flex - Move Base Flex (MBF) is a backwards-compatible replacement for move_base.
+ros-kinetic-move-base-msgs - Holds the action description and relevant messages for the move_base package
+ros-kinetic-move-base-to-manip - Move the robot base until a desired end-effector pose can be reached.
+ros-kinetic-move-basic - Simple navigation package
+ros-kinetic-move-slow-and-clear - move_slow_and_clear
+ros-kinetic-moveit - Meta package that contains all essential package of MoveIt!.
+ros-kinetic-moveit-commander - Python interfaces to MoveIt
+ros-kinetic-moveit-controller-manager-example - An example controller manager plugin for MoveIt.
+ros-kinetic-moveit-core - Core libraries used by MoveIt!
+ros-kinetic-moveit-fake-controller-manager - A fake controller manager plugin for MoveIt.
+ros-kinetic-moveit-kinematics - Package for all inverse kinematics solvers in MoveIt!
+ros-kinetic-moveit-msgs - Messages, services and actions used by MoveIt
+ros-kinetic-moveit-planners - Metapacakge that installs all available planners for MoveIt
+ros-kinetic-moveit-planners-ompl - MoveIt interface to OMPL
+ros-kinetic-moveit-plugins - Metapackage for moveit plugins.
+ros-kinetic-moveit-pr2 - All PR2-specific packages for MoveIt
+ros-kinetic-moveit-python - A pure-python interaface to the MoveIt! ROS API.
+ros-kinetic-moveit-resources - Resources used for MoveIt! testing
+ros-kinetic-moveit-ros - Components of MoveIt that use ROS
+ros-kinetic-moveit-ros-benchmarks - Enhanced tools for benchmarks in MoveIt!
+ros-kinetic-moveit-ros-control-interface - ros_control controller manager interface for MoveIt!
+ros-kinetic-moveit-ros-manipulation - Components of MoveIt used for manipulation
+ros-kinetic-moveit-ros-move-group - The move_group node for MoveIt
+ros-kinetic-moveit-ros-perception - Components of MoveIt connecting to perception
+ros-kinetic-moveit-ros-planning - Planning components of MoveIt that use ROS
+ros-kinetic-moveit-ros-planning-interface - Components of MoveIt that offer simpler interfaces to planning and execution
+ros-kinetic-moveit-ros-robot-interaction - Components of MoveIt that offer interaction via interactive markers
+ros-kinetic-moveit-ros-visualization - Components of MoveIt that offer visualization
+ros-kinetic-moveit-ros-warehouse - Components of MoveIt connecting to MongoDB
+ros-kinetic-moveit-runtime - moveit_runtime meta package contains MoveIt! packages that are essential for its runtime (e.g.
+ros-kinetic-moveit-setup-assistant - Generates a configuration package that makes it easy to use MoveIt!
+ros-kinetic-moveit-sim-controller - A simulation interface for a hardware interface for ros_control, and loads default joint values from SRDF
+ros-kinetic-moveit-simple-controller-manager - A generic, simple controller manager plugin for MoveIt.
+ros-kinetic-moveit-visual-tools - Helper functions for displaying and debugging MoveIt! data in Rviz via published markers
+ros-kinetic-mqtt-bridge - The mqtt_bridge package
+ros-kinetic-mrpt-bridge - C++ libraries to convert between ROS and MRPT classes and messages
+ros-kinetic-mrpt-ekf-slam-2d - mrpt_ekf_slam_2d
+ros-kinetic-mrpt-ekf-slam-3d - mrpt_ekf_slam_3d
+ros-kinetic-mrpt-graphslam-2d - Implement graphSLAM using the mrpt-graphslam library, in an online fashion by directly reading measurements off ROS Topics.
+ros-kinetic-mrpt-icp-slam-2d - mrpt_icp_slam_2d contains a wrapper on MRPT's 2D ICP-SLAM algorithms.
+ros-kinetic-mrpt-local-obstacles - Maintains a local obstacle map (point cloud, voxels or occupancy grid) from recent sensor readings within a configurable time window.
+ros-kinetic-mrpt-localization - Package for robot 2D self-localization using dynamic or static (MRPT or ROS) maps.
+ros-kinetic-mrpt-map - The mrpt_map is able to publish a mrpt map as ros occupancy grid like the map_server
+ros-kinetic-mrpt-msgs - ROS messages for MRPT classes and objects
+ros-kinetic-mrpt-rawlog - This package enables you to record a rawlog from a ROS drive robot.
+ros-kinetic-mrpt-rbpf-slam - This package is used for gridmap SLAM.
+ros-kinetic-mrpt-reactivenav2d - Reactive navigation for 2D robots using MRPT navigation algorithms (TP-Space)
+ros-kinetic-mrpt-slam - mrpt_slam
+ros-kinetic-msp - Implementation of the MultiWii Serial Protocol (MSP)
+ros-kinetic-multi-jackal-base - The Jackal simulation base that combines all components.
+ros-kinetic-multi-jackal-control - Creates the joint and velocity controllers.
+ros-kinetic-multi-jackal-description - Spawns the Jackal model.
+ros-kinetic-multi-jackal-nav - Localization and navigation for the Jackal.
+ros-kinetic-multi-jackal-tutorials - Tutorials for multi-Jackal simulations.
+ros-kinetic-multi-map-server - multi_map_server provides the
+ros-kinetic-multikey-teleop - multikey_teleop is a node for robot teleoperation.
+ros-kinetic-multimaster-fkie - The metapackage to combine the nodes required to establish and manage a multimaster network.
+ros-kinetic-multimaster-launch - Multi-master bringup launch files for CPR platforms
+ros-kinetic-multimaster-msgs - The multimaster_msgs package
+ros-kinetic-multimaster-msgs-fkie - The messages required by multimaster packages.
+ros-kinetic-multires-image - multires_image
+ros-kinetic-multirobot-map-merge - Merging multiple maps without knowledge of initial positions of robots.
+ros-kinetic-multisense - multisense catkin driver
+ros-kinetic-multisense-bringup - multisense_bringup
+ros-kinetic-multisense-cal-check - multisense_cal_check
+ros-kinetic-multisense-description - multisense_description
+ros-kinetic-multisense-lib - multisense_lib
+ros-kinetic-multisense-ros - multisense_ros
+ros-kinetic-multiwii - The multiwii package
+ros-kinetic-mvsim - Node for the &quot;multivehicle simulator&quot; framework.
+ros-kinetic-myahrs-driver - myahrs_driver is a driver package for the WITHROBOT's myAHRS+.
+ros-kinetic-nao-apps - Applications for NAO using the NAOqi API
+ros-kinetic-nao-audio - Package for the Nao robot, providing access to NAOqi audio proxies
+ros-kinetic-nao-bringup - Launch files and scripts needed to bring ROS interfaces for Nao up into a running state.
+ros-kinetic-nao-control - The nao_control package
+ros-kinetic-nao-dcm-bringup - Bring-up the nao_dcm driver to connect to Aldebaran's Nao robot (v4).
+ros-kinetic-nao-description - Description of the Nao robot model that can be used with robot_state_publisher to display the robot's state of joint angles.
+ros-kinetic-nao-interaction - Metapackage for the Nao robot, providing access to: - NAOqi audio proxies - NAOqi vision proxies
+ros-kinetic-nao-interaction-launchers - Launchers for bringing up the nodes of nao_interaction metapackage.
+ros-kinetic-nao-interaction-msgs - Messages and services declarations for the nao_interaction metapackage
+ros-kinetic-nao-meshes - meshes for the Aldebaran Robotics NAO
+ros-kinetic-nao-moveit-config - An automatically generated package with all the configuration and launch files for using the NAO robot with the MoveIt Motion Planning Framework
+ros-kinetic-nao-robot - The nao_robot metapackage contains some useful nodes to integrate the Nao humanoid robot into ROS.
+ros-kinetic-nao-vision - Package for the Nao robot, providing access to NAOqi vision proxies
+ros-kinetic-naoqi-apps - Package bridging NAOqi to executing things on the robot.
+ros-kinetic-naoqi-bridge - Meta package to interface ROS with Aldebaran's NAOqi.
+ros-kinetic-naoqi-bridge-msgs - The naoqi_bridge_msgs package provides custom messages for running Aldebaran's robot such as NAO and Pepper.
+ros-kinetic-naoqi-dcm-driver - Package containing the hardware interface to connect to Nao, Romeo, or Pepper robots.
+ros-kinetic-naoqi-driver - Driver module between Aldebaran's NAOqiOS and ROS.
+ros-kinetic-naoqi-driver-py - Python implementation of the driver package for the Naoqi robot, providing access to walking commands, joint angles, and sensor data (odometry, IMU, ...).
+ros-kinetic-naoqi-libqi - Aldebaran's libqi: a core library for NAOqiOS development
+ros-kinetic-naoqi-libqicore - Aldebaran's libqicore: a layer on top of libqi
+ros-kinetic-naoqi-pose - This package contains nodes for managing Nao's poses.
+ros-kinetic-naoqi-sensors-py - ROS driver for miscellaneous sensors on NAO.
+ros-kinetic-naoqi-tools - Set of tools provided by Aldebaran to convert Aldebaran files (URDF, blender...)
+ros-kinetic-nav-core - This package provides common interfaces for navigation specific robot actions.
+ros-kinetic-nav-msgs - nav_msgs defines the common messages used to interact with the navigation stack.
+ros-kinetic-nav-pcontroller - Simple P-Controller for a holonomic robot base
+ros-kinetic-nav2d - Meta-Package containing modules for 2D-Navigation
+ros-kinetic-nav2d-exploration - This package holds a collection of plugins for the RobotNavigator, that provide different cooperative exploration strategies for a team of mobile robots.
+ros-kinetic-nav2d-karto - Graph-based Simultaneous Localization and Mapping module.
+ros-kinetic-nav2d-localizer - Wrapper around Particle Filter implementation.
+ros-kinetic-nav2d-msgs - Messages used for 2D-Navigation.
+ros-kinetic-nav2d-navigator - This package provides a node for higher level navigation of a mobile robot in a planar environment.
+ros-kinetic-nav2d-operator - The operator is a lightweight, purely reactive obstacle-avoidance module for mobile robots moving in a planar environment.
+ros-kinetic-nav2d-remote - This package is used to manually control a robot that uses the operator and navigator node from navigation_2d.
+ros-kinetic-nav2d-tutorials - Contains a set of tutorials that run 2D-Navigation within Stage-Simulator.
+ros-kinetic-navfn - navfn provides a fast interpolated navigation function that can be used to create plans for a mobile base.
+ros-kinetic-navigation - A 2D navigation stack that takes in information from odometry, sensor streams, and a goal pose and outputs safe velocity commands that are sent to a mobile base.
+ros-kinetic-navigation-layers - Extra navigation layers.
+ros-kinetic-navigation-stage - This package holds example launch files for running the ROS navigation stack in stage.
+ros-kinetic-navigation-tutorials - Navigation related tutorials.
+ros-kinetic-ncd-parser - The ncd_parser package reads in .alog data files from the New College Dataset and broadcasts scan and odometry messages to ROS.
+ros-kinetic-neobotix-usboard-msgs - neobotix_usboard package
+ros-kinetic-nerian-sp1 - Node for the SP1 Stereo Vision System by Nerian Vision Technologies
+ros-kinetic-nerian-stereo - Driver node for SceneScan and SP1 stereo vision sensors by Nerian Vision Technologies
+ros-kinetic-network-interface - Network interfaces and messages.
+ros-kinetic-nextage-calibration - This package provides .launch files and other tools for calibrating the head-mount cameras to the NEXTAGE Open robot.
+ros-kinetic-nextage-description - As a part of rtmros_nextage package that is a ROS interface for Nextage dual-armed robot from Kawada Robotics Inc, this package provides its 3D model that can be used in simulation and MoveIt!-based motion planning tasks.
+ros-kinetic-nextage-gazebo - Gazebo simulation for NEXTAGE Open
+ros-kinetic-nextage-ik-plugin - IKFast package for NEXTAGE Open
+ros-kinetic-nextage-moveit-config - An automatically generated package with all the configuration and launch files for using the NextageOpen with the MoveIt Motion Planning Framework.
+ros-kinetic-nextage-ros-bridge - A main ROS interface for developers and users of Nextage dual-armed robot from Kawada Robotics Inc.
+ros-kinetic-nlopt - nlopt
+ros-kinetic-nmea-comms - The nmea_comms package provides helper nodes for transmitting and receiving the NMEA sentences.
+ros-kinetic-nmea-msgs - The nmea_msgs package contains messages related to data in the NMEA format.
+ros-kinetic-nmea-navsat-driver - Package to parse NMEA strings and publish a very simple GPS message.
+ros-kinetic-node-manager-fkie - Graphical interface, written in PySide, to manage the running and configured ROS nodes on different hosts.
+ros-kinetic-nodelet - The nodelet package is designed to provide a way to run multiple algorithms in the same process with zero copy transport between algorithms.
+ros-kinetic-nodelet-core - Nodelet Core Metapackage
+ros-kinetic-nodelet-topic-tools - This package contains common nodelet tools such as a mux, demux and throttle.
+ros-kinetic-nodelet-tutorial-math - Package for Nodelet tutorial.
+ros-kinetic-novatel-gps-driver - Driver for NovAtel receivers
+ros-kinetic-novatel-gps-msgs - Messages for proprietary (non-NMEA) sentences from Novatel GPS receivers.
+ros-kinetic-novatel-msgs - ROS messages which represent raw Novatel SPAN data.
+ros-kinetic-novatel-span-driver - Python driver for NovAtel SPAN devices.
+ros-kinetic-ntpd-driver - ntpd_driver sends TimeReference message time to ntpd server
+ros-kinetic-o3m151-driver - ROS device driver for Ifm O3M151 TOF camera.
+ros-kinetic-object-recognition-capture - Capture is a set of tools to capture objects in 3D and perform odometry
+ros-kinetic-object-recognition-core - object_recognition_core contains tools to launch several recognition pipelines, train objects, store models ...
+ros-kinetic-object-recognition-msgs - Object_recognition_msgs contains the ROS message and the actionlib definition used in object_recognition_core
+ros-kinetic-object-recognition-reconstruction - basic 3d reconstruction of an object from aligned Kinect data
+ros-kinetic-object-recognition-ros - object_recognition_core contains tools to launch several recognition pipelines, train objects, store models ...
+ros-kinetic-object-recognition-ros-visualization - object_recognition_ros_visualization contains rviz plugins to visualize ork detection results
+ros-kinetic-object-recognition-tod - Textured Object Recognition a standard bag of features approach
+ros-kinetic-object-recognition-transparent-objects - A technique to recognize and estimate poses of transparent objects
+ros-kinetic-ocean-battery-driver - This is an interface to the Ocean Server Technology Intelligent Battery and Power System.
+ros-kinetic-ocl - Orocos component library This package contains standard components for the Orocos Toolchain
+ros-kinetic-octomap - The OctoMap library implements a 3D occupancy grid mapping approach, providing data structures and mapping algorithms in C++.
+ros-kinetic-octomap-mapping - Mapping tools to be used with the OctoMap library, implementing a 3D occupancy grid mapping.
+ros-kinetic-octomap-msgs - This package provides messages and serializations / conversion for the OctoMap library.
+ros-kinetic-octomap-pa - ProAut octomap package
+ros-kinetic-octomap-ros - octomap_ros provides conversion functions between ROS and OctoMap's native types.
+ros-kinetic-octomap-rviz-plugins - A set of plugins for displaying occupancy information decoded from binary octomap messages.
+ros-kinetic-octomap-server - octomap_server loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes in a compact binary format.
+ros-kinetic-octovis - octovis is visualization tool for the OctoMap library based on Qt and libQGLViewer.
+ros-kinetic-oculusprime - Oculus Prime ROS Interface
+ros-kinetic-odometry-publisher-tutorial - The odometry_publisher_tutorial package
+ros-kinetic-odva-ethernetip - Library implementing ODVA EtherNet/IP (Industrial Protocol).
+ros-kinetic-ompl - OMPL is a free sampling-based motion planning library.
+ros-kinetic-op3-action-editor - The op3_action_editor package porovides editor tool to make motion.
+ros-kinetic-op3-action-module - The op3_action_module package
+ros-kinetic-op3-action-module-msgs - This package includes ROS messages and services for the ROBOTIS OP3 packages
+ros-kinetic-op3-balance-control - The op3_balance_control package
+ros-kinetic-op3-ball-detector - This package implements a circle-like shape detector of the input image.
+ros-kinetic-op3-base-module - The op3_base_module package
+ros-kinetic-op3-bringup - This package is a demo for first time users.
+ros-kinetic-op3-camera-setting-tool - The op3_camera_setting_tool package
+ros-kinetic-op3-demo - OP3 default demo It includes three demontrations(soccer demo, vision demo, action script demo)
+ros-kinetic-op3-description - The op3_description package
+ros-kinetic-op3-direct-control-module - The op3_direct_control_module package
+ros-kinetic-op3-gazebo - The op3_gazebo package
+ros-kinetic-op3-gui-demo - The op3_gui_demo is a GUI software to control ROBOTIS-OP3.
+ros-kinetic-op3-head-control-module - The op3_head_control_module package
+ros-kinetic-op3-kinematics-dynamics - The op3_kinematics_dynamics package
+ros-kinetic-op3-localization - The op3_localization package
+ros-kinetic-op3-manager - The op3_manager package
+ros-kinetic-op3-navigation - This package is for generating footsteps of ROBOTIS-OP3.
+ros-kinetic-op3-offset-tuner-client - The op3_offset_tuner_client package
+ros-kinetic-op3-offset-tuner-msgs - This package includes ROS messages and services for the ROBOTIS OP3 packages
+ros-kinetic-op3-offset-tuner-server - The offset_tuner_server package
+ros-kinetic-op3-online-walking-module - The op3_online_walking_module package
+ros-kinetic-op3-online-walking-module-msgs - This package includes ROS messages and services for the ROBOTIS OP3 packages
+ros-kinetic-op3-walking-module - The op3_walking_module package
+ros-kinetic-op3-walking-module-msgs - This package includes ROS messages and services for the ROBOTIS OP3 packages
+ros-kinetic-op3-web-setting-tool - The op3_web_setting_tool package
+ros-kinetic-open-cr-module - The open_cr_module package
+ros-kinetic-open-karto - Catkinized ROS packaging of the OpenKarto library
+ros-kinetic-open-manipulator - ROS-enabled OpenManipulator is a full open robot platform consisting of OpenSoftware​, OpenHardware and OpenCR(Embedded board)​.
+ros-kinetic-open-manipulator-description - 3D models of the OpenManipulator description for simulation and visualization
+ros-kinetic-open-manipulator-dynamixel-ctrl - The Dynamixel ctroller package for OpenManipulator
+ros-kinetic-open-manipulator-gazebo - Simulation package using gazebo for OpenManipulator
+ros-kinetic-open-manipulator-moveit - An automatically generated package with all the configuration and launch files for using the open_manipulator_chain with the MoveIt! Motion Planning Framework.
+ros-kinetic-open-manipulator-msgs - Message and service types: custom messages and services for OpenManipulator
+ros-kinetic-open-manipulator-position-ctrl - The position contrloller package for OpenManipulator
+ros-kinetic-open-manipulator-with-tb3 - The robot description package for OpenManipulator and TurtleBot3
+ros-kinetic-opencv-apps - opencv_apps provides various nodes that run internally OpenCV's functionalities and publish the result as ROS topics.
+ros-kinetic-opencv-candidate - Experimental OpenCV functions
+ros-kinetic-opencv3 - OpenCV 3.x
+ros-kinetic-openface-ros - The openface_ros package
+ros-kinetic-opengm - This package wraps the external c++ library opengm in a ROS package, so other packages can use it.
+ros-kinetic-openhrp3 - This package does not only wrap OpenHRP3 but actually provides the built artifact from the code from its mainstream repository.
+ros-kinetic-openni-camera - A ROS driver for OpenNI depth (+ RGB) cameras.
+ros-kinetic-openni-description - Model files of OpenNI device.
+ros-kinetic-openni-launch - Launch files to open an OpenNI device and load all nodelets to convert raw depth/RGB/IR streams to depth images, disparity images, and (registered) point clouds.
+ros-kinetic-openni2-camera - Drivers for the Asus Xtion and Primesense Devices.
+ros-kinetic-openni2-launch - Launch files to start the openni2_camera drivers using rgbd_launch.
+ros-kinetic-openrave - In order to use, please add the following line in your bashrc:
+ros-kinetic-openrave-planning - This stack offers OpenRAVE-related bindings.
+ros-kinetic-openrtm-aist - This package represents OpenRTM-aist that's built within ROS eco system.
+ros-kinetic-openrtm-aist-python - Python binding of OpenRTM-AIST (see openrtm_aist for further information).
+ros-kinetic-openrtm-ros-bridge - openrtm_ros_bridge package provides basic functionalities to bind two robotics framework: OpenRTM and ROS.
+ros-kinetic-openrtm-tools - The openrtm_tools package
+ros-kinetic-openslam-gmapping - ROS-ified version of gmapping SLAM.
+ros-kinetic-opt-camera - opt_camera
+ros-kinetic-orocos-kdl - This package contains a recent version of the Kinematics and Dynamics Library (KDL), distributed by the Orocos Project.
+ros-kinetic-orocos-kinematics-dynamics - This package depends on a recent version of the Kinematics and Dynamics Library (KDL), distributed by the Orocos Project.
+ros-kinetic-oros-tools - Oros Tools is software suite that provide high level functions to the web plateform Oros.
+ros-kinetic-oros-tools-examples - The oros_tools_examples package
+ros-kinetic-osg-interactive-markers - This package is basically an OpenSceneGraph (OSG) adaptation of the Interactive Markers client writen for rviz/Ogre.
+ros-kinetic-osg-markers - osg_markers can be used to create Markers geometry in OSG.
+ros-kinetic-osg-utils - osg_utils is a library that contains some classes that may be useful in ROS-OSG applications.
+ros-kinetic-osm-cartography - Geographic mapping using Open Street Map data.
+ros-kinetic-oxford-gps-eth - Ethernet interface to OxTS GPS receivers (NCOM packet structure)
+ros-kinetic-p2os-doc - Contains the Documentation for the p2os driver/componenets
+ros-kinetic-p2os-driver - Driver file descriptions for P2OS/ARCOS robot
+ros-kinetic-p2os-launch - Launch and config files designed for use with the p2os stack.
+ros-kinetic-p2os-msgs - Defines the messages that are used to communicate with the p2os_driver package and the ROS infrastructure.
+ros-kinetic-p2os-teleop - A teleoperation node for the p2os_driver package.
+ros-kinetic-p2os-urdf - URDF file descriptions for P2OS/ARCOS robot
+ros-kinetic-pacmod - AutonomouStuff PACMod driver package
+ros-kinetic-pacmod-game-control - ROS Package for controlling the AStuff PACMod with a Joystick
+ros-kinetic-pacmod-msgs - Message definition files for the PACMod driver
+ros-kinetic-panda-moveit-config - A partly automatically generated package with all the configuration and launch files for using Panda research with MoveIt!
+ros-kinetic-parameter-pa - ProAut parameter package
+ros-kinetic-parrot-arsdk - Catkin wrapper for the official ARSDK from Parrot
+ros-kinetic-pcdfilter-pa - ProAut pointcloud filter package
+ros-kinetic-pcl-conversions - Provides conversions from PCL data types and ROS message types
+ros-kinetic-pcl-msgs - Package containing PCL (Point Cloud Library)-related ROS messages.
+ros-kinetic-pcl-ros - PCL (Point Cloud Library) ROS interface stack.
+ros-kinetic-pddl-msgs - message for pddl planner
+ros-kinetic-pddl-planner - pddl planner wrappers
+ros-kinetic-pddl-planner-viewer - a viewer of pddl_planner.
+ros-kinetic-people - The people stack holds algorithms for perceiving people from a number of sensors.
+ros-kinetic-people-msgs - Messages used by nodes in the people stack.
+ros-kinetic-people-tracking-filter - A collection of filtering tools for tracking people's locations
+ros-kinetic-pepper-bringup - The pepper_bringup package
+ros-kinetic-pepper-control - Control for Pepper robot
+ros-kinetic-pepper-dcm-bringup - Bring-up the dcm driver to control Pepper
+ros-kinetic-pepper-description - The pepper_description package
+ros-kinetic-pepper-gazebo-plugin - Gazebo plugin for Pepper robot
+ros-kinetic-pepper-meshes - meshes for the Aldebaran Robotics Pepper
+ros-kinetic-pepper-moveit-config - An automatically generated package with all the configuration and launch files for using the Pepper robot with the MoveIt Motion Planning Framework
+ros-kinetic-pepper-robot - The pepper_robot package
+ros-kinetic-pepper-sensors-py - The pepper_sensors package
+ros-kinetic-pepperl-fuchs-r2000 - The Pepperl+Fuchs R2000 laser range finder driver package
+ros-kinetic-perception - A metapackage to aggregate several packages.
+ros-kinetic-perception-pcl - PCL (Point Cloud Library) ROS interface stack.
+ros-kinetic-pgm-learner - Parameter/Structure Estimation and Inference for Bayesian Belief Network
+ros-kinetic-pheeno-ros - The pheeno_ros package contains necessary files for run and control an individual Pheeno unit with ROS.
+ros-kinetic-pheeno-ros-sim - Gazebo simulation ROS package for Pheeno system!
+ros-kinetic-phidgets-api - A C++ Wrapper for the Phidgets C API
+ros-kinetic-phidgets-drivers - API and ROS drivers for Phidgets devices
+ros-kinetic-phidgets-high-speed-encoder - Driver for the Phidgets high speed encoder devices
+ros-kinetic-phidgets-ik - Driver for the Phidgets InterfaceKit devices
+ros-kinetic-phidgets-imu - Driver for the Phidgets Spatial 3/3/3 devices
+ros-kinetic-pid - Launch a PID control node.
+ros-kinetic-plot-tools - plot_tools
+ros-kinetic-plotjuggler - PlotJuggler: juggle with data
+ros-kinetic-pluginlib - The pluginlib package provides tools for writing and dynamically loading plugins using the ROS build infrastructure.
+ros-kinetic-pluginlib-tutorials - The pluginlib_tutorials package
+ros-kinetic-point-cloud-publisher-tutorial - The point_cloud_publisher_tutorial package
+ros-kinetic-pointcloud-to-laserscan - Converts a 3D Point Cloud into a 2D laser scan.
+ros-kinetic-pointcloud-tools - pointcloud_tools
+ros-kinetic-pointgrey-camera-description - URDF descriptions for Point Grey cameras
+ros-kinetic-pointgrey-camera-driver - Point Grey camera driver based on libflycapture2.
+ros-kinetic-polar-scan-matcher - A wrapper around Polar Scan Matcher by Albert Diosi and Lindsay Kleeman, used for laser scan registration.
+ros-kinetic-polled-camera - polled_camera contains a service and C++ helper classes for implementing a polled camera driver node and requesting images from it.
+ros-kinetic-pose-cov-ops - Library with C++ functions for SE(2/3) pose and 2D/3D point composition operations with uncertainty
+ros-kinetic-posedetection-msgs - posedetection_msgs provides messages and services to facilitate passing pose detection results and features.
+ros-kinetic-position-controllers - position_controllers
+ros-kinetic-power-monitor - The power_monitor collects messages from the ocean_battery_server and the pr2_power_board, and publishes a summary of their data in a friendlier message format.
+ros-kinetic-pr2-app-manager - Scripts and tools for running the application manager on the PR2.
+ros-kinetic-pr2-apps - Basic applications for the PR2 robot
+ros-kinetic-pr2-arm-kinematics - This package provides a kinematics implementation for the PR2 robot.
+ros-kinetic-pr2-arm-move-ik - Move the pr2 arm using inverse kinematics
+ros-kinetic-pr2-bringup - Launch files and scripts needed to bring a PR2 up into a running state.
+ros-kinetic-pr2-calibration - The pr2_calibration package
+ros-kinetic-pr2-calibration-controllers - The pr2_calibration_controllers package contains the controllers used to bring all the joints in the PR2 to a calibrated state.
+ros-kinetic-pr2-calibration-launch - Launch files and configuration files needed to run the calibration pipeline on PR2.
+ros-kinetic-pr2-camera-synchronizer - The PR2 is equipped with a texture projector that can be used to project a texture onto featureless surfaces, allowing their three-dimensional structure to be determined using stereoscopy.
+ros-kinetic-pr2-common - URDF description of the robot kinematics and dynamics, 3D models of robot components, information required for gazebo to simulate the PR2, and messages specific to the PR2 such as detailed information about its power board and fingertip pressure sensors.
+ros-kinetic-pr2-common-action-msgs - The pr2_common_action_msgs package
+ros-kinetic-pr2-common-actions - Various actions which help in moving the arms of the PR2 or getting data from its tilting laser.
+ros-kinetic-pr2-computer-monitor - Monitors the computer's processor and hard drives of the PR2 and publishes data to diagnostics.
+ros-kinetic-pr2-controller-configuration - Configuration files for PR2 controllers.
+ros-kinetic-pr2-controller-configuration-gazebo - A copy of the pr2_controller_configuration package, for use in the PR2 simulator.
+ros-kinetic-pr2-controller-interface - This package specifies the interface to a realtime controller.
+ros-kinetic-pr2-controller-manager - The controller manager (CM) package provides the infrastructure to run controllers in a hard realtime loop.
+ros-kinetic-pr2-controllers - Contains the controllers that run in realtime on the PR2 and supporting packages.
+ros-kinetic-pr2-controllers-msgs - Messages, services, and actions used in the pr2_controllers stack.
+ros-kinetic-pr2-dashboard-aggregator - A simple script that aggregates all of the topics that a &quot;pr2_dashboard&quot; app might be interested in.
+ros-kinetic-pr2-dense-laser-snapshotter - Stores the data from a series of laser scan messages in a dense representation, allowing users to easily perform image-like operations on intensity or range data.
+ros-kinetic-pr2-description - This package contains the description (mechanical, kinematic, visual, etc.) of the PR2 robot.
+ros-kinetic-pr2-ethercat - Main loop that runs the robot.
+ros-kinetic-pr2-ethercat-drivers - This stack contains drivers for the ethercat system and the peripherals that connect to it: motor control boards, fingertip sensors, texture projector, hand accelerometer.
+ros-kinetic-pr2-gazebo - Launch scripts for simulating the PR2 in gazebo.
+ros-kinetic-pr2-gazebo-plugins - Gazebo Plugins for various PR2-specific sensors and actuators on the robot.
+ros-kinetic-pr2-gripper-action - The pr2_gripper_action provides an action interface for using the gripper.
+ros-kinetic-pr2-hardware-interface - This package contains the C++ interfaces to the PR2 hardware components that are controlled over EtherCAT.
+ros-kinetic-pr2-head-action - The PR2 head action is a node that provides an action interface for pointing the head of the PR2.
+ros-kinetic-pr2-kinematics - The pr2_kinematics package
+ros-kinetic-pr2-machine - This package contains the xxx.machine files that describe the different hosts a node can be spawned on.
+ros-kinetic-pr2-mannequin-mode - The pr2_mannequin_mode package
+ros-kinetic-pr2-mechanism - The pr2_mechanism stack contains the infrastructure to control the PR2 robot in a hard realtime control loop.
+ros-kinetic-pr2-mechanism-controllers - The pr2_mechanism_controllers package contains realtime controllers that are meant for specific mechanisms of the PR2.
+ros-kinetic-pr2-mechanism-diagnostics - The `pr2_mechanism_diagnostics` node subscribes to `mechanism_statistics` and publishes diagnostics data for joints and controllers on `/diagnostics`.
+ros-kinetic-pr2-mechanism-model - This package contains the robot model that is used by the realtime controllers inside controller manager.
+ros-kinetic-pr2-mechanism-msgs - This package defines services that are used to communicate with the realtime control loop.
+ros-kinetic-pr2-move-base - pr2_move_base
+ros-kinetic-pr2-moveit-config - An automatically generated package with all the configuration and launch files for using the pr2 with the MoveIt Motion Planning Framework
+ros-kinetic-pr2-moveit-plugins - PR2 specific plugins for MoveIt
+ros-kinetic-pr2-msgs - Messages for representing PR2 state, such as battery information and the PR2 fingertip sensors.
+ros-kinetic-pr2-navigation - The pr2_navigation stack holds common configuration options for running the
+ros-kinetic-pr2-navigation-config - This package holds common configuration files for running the
+ros-kinetic-pr2-navigation-global - This package holds XML files for running the
+ros-kinetic-pr2-navigation-local - This package holds xml files for running the
+ros-kinetic-pr2-navigation-perception - This package holds navigation-specific sensor configuration options and launch files for the PR2.
+ros-kinetic-pr2-navigation-self-filter - Filters the robot's body out of point clouds.
+ros-kinetic-pr2-navigation-slam - This package holds launch files for running the
+ros-kinetic-pr2-navigation-teleop - This package holds a special teleop configuration for the PR2 robot that should be used when running applications that use autonomous navigation.
+ros-kinetic-pr2-position-scripts - This package contains a number of scripts to set various components of the PR2.
+ros-kinetic-pr2-power-board - This provides a ROS node for the PR2 Power Board.
+ros-kinetic-pr2-power-drivers - Power drivers for the PR2 robot.
+ros-kinetic-pr2-robot - This stack collects PR2-specific components that are used in bringing up a robot.
+ros-kinetic-pr2-run-stop-auto-restart - This package provides a node that monitors the state of the run stops of the pr2_robot.
+ros-kinetic-pr2-se-calibration-launch - pr2_se_calibration_launch
+ros-kinetic-pr2-simulator - The pr2_simulator package
+ros-kinetic-pr2-teleop - The pr2_teleop package
+ros-kinetic-pr2-teleop-general - pr2_teleop_general
+ros-kinetic-pr2-tilt-laser-interface - Provides a set of tools/actions for manipulating the pr2's tilting laser.
+ros-kinetic-pr2-tuck-arms-action - The pr2_tuck_arms_action package
+ros-kinetic-pr2-tuckarm - Tucks the arms of the PR2 robot into a safe position for moving the base of the robot.
+ros-kinetic-pr2eus - pr2eus
+ros-kinetic-pr2eus-moveit - pr2eus_moveit
+ros-kinetic-pr2eus-tutorials - pr2eus_tutorials
+ros-kinetic-prosilica-camera - A ROS driver node for AVT/Prosilica Gigabit Ethernet (GigE) cameras.
+ros-kinetic-prosilica-gige-sdk - AVT GigE SDK version 1.26 for ROS
+ros-kinetic-ps3joy - Playstation 3 SIXAXIS or DUAL SHOCK 3 joystick driver.
+ros-kinetic-puma-motor-driver - A ROS driver for Puma single-channel motor control board.
+ros-kinetic-puma-motor-msgs - Messages specific to Puma.
+ros-kinetic-py-trees - Pythonic implementation of behaviour trees.
+ros-kinetic-py-trees-msgs - Messages used by py_trees_ros and some extras for the mock demos/tests.
+ros-kinetic-py-trees-ros - Ros extensions and behaviours for py_trees.
+ros-kinetic-pyclearsilver - A bunch of libraries to interface clearsilver with python and many databases.
+ros-kinetic-pyros - Provides Python to ROS multiprocess API, useful for using ROS from different multiprocess environment while keeping both isolated.
+ros-kinetic-pyros-common - Common interfaces packages for Pyros framework
+ros-kinetic-pyros-config - Configuration package for Pyros
+ros-kinetic-pyros-interfaces-ros - Dynamic ROS interface for Pyros
+ros-kinetic-pyros-test - Basic test nodes for Pyros dynamic ROS interface
+ros-kinetic-pyros-utils - Miscellaneous tools for pyROS
+ros-kinetic-python-ftputil - a high-level FTP client library for Python
+ros-kinetic-python-orocos-kdl - This package contains the python bindings PyKDL for the Kinematics and Dynamics Library (KDL), distributed by the Orocos Project.
+ros-kinetic-python-qt-binding - This stack provides Python bindings for Qt.
+ros-kinetic-python-trep - Trep: Mechanical Simulation and Optimal Control Software
+ros-kinetic-pyzmp - Python Multiprocess Management Framework, based on ZeroMQ communication
+ros-kinetic-qb-chain - This package contains the ROS interface to control multiple qbrobotics® devices simultaneously.
+ros-kinetic-qb-chain-control - This package contains the ROS node to control multiple qbrobotics® devices simultaneously.
+ros-kinetic-qb-chain-description - This package contains the ROS description for complex chains of qbrobotics® devices.
+ros-kinetic-qb-device - This package contains a device-independent ROS interface for qbrobotics® devices.
+ros-kinetic-qb-device-bringup - This package contains a device-independent bringup utilities for qbrobotics® devices.
+ros-kinetic-qb-device-control - This package contains a device-independent control library for qbrobotics® devices.
+ros-kinetic-qb-device-description - This package contains a device-independent description utilities for qbrobotics® devices.
+ros-kinetic-qb-device-driver - This package contains a device-independent API wrapper for qbrobotics® devices.
+ros-kinetic-qb-device-hardware-interface - This package contains a device-independent hardware interface for qbrobotics® devices.
+ros-kinetic-qb-device-msgs - This package contains the device-independent custom ROS messages for qbrobotics® devices.
+ros-kinetic-qb-device-srvs - This package contains the device-independent custom ROS services for qbrobotics® devices.
+ros-kinetic-qb-hand - This package contains the ROS interface for qbrobotics® qbhand device.
+ros-kinetic-qb-hand-control - This package contains the ROS control node for qbrobotics® qbhand device.
+ros-kinetic-qb-hand-description - This package contains the ROS description for qbrobotics® qbhand device.
+ros-kinetic-qb-hand-hardware-interface - This package contains the hardware interface for qbrobotics® qbhand device.
+ros-kinetic-qb-move - This package contains the ROS interface for qbrobotics® qbmove device.
+ros-kinetic-qb-move-control - This package contains the ROS control node for qbrobotics® qbmove device.
+ros-kinetic-qb-move-description - This package contains the ROS description for qbrobotics® qbmove device.
+ros-kinetic-qb-move-hardware-interface - This package contains the hardware interface for qbrobotics® qbmove device.
+ros-kinetic-qt-build - Currently just maintains a cmake api for simplifying the building of qt apps within the ros framework.
+ros-kinetic-qt-create - Provides templates and scripts for creating qt-ros packages (similar to roscreate-pkg).
+ros-kinetic-qt-dotgraph - qt_dotgraph provides helpers to work with dot graphs.
+ros-kinetic-qt-gui - qt_gui provides the infrastructure for an integrated graphical user interface based on Qt.
+ros-kinetic-qt-gui-app - qt_gui_app provides the main to start an instance of the integrated graphical user interface provided by qt_gui.
+ros-kinetic-qt-gui-core - Integration of the ROS package system and ROS-specific plugins for a Qt-based GUI.
+ros-kinetic-qt-gui-cpp - qt_gui_cpp provides the foundation for C++-bindings for qt_gui and creates bindings for every generator available.
+ros-kinetic-qt-gui-py-common - qt_gui_py_common provides common functionality for GUI plugins written in Python.
+ros-kinetic-qt-ros - Simple qt cmake build tools and master-chooser style application template.
+ros-kinetic-qt-tutorials - Example qt programs, generated from code similar to that used by the roscreate-qt-pkg script and styled on roscpp_tutorials.
+ros-kinetic-qwt-dependency - This encapsulates the Qwt dependency for a specific ROS distribution and its Qt version
+ros-kinetic-random-numbers - This library contains wrappers for generating floating point values, integers, quaternions using boost libraries.
+ros-kinetic-range-sensor-layer - Navigation Layer for Range sensors like sonar and IR
+ros-kinetic-raspigibbon-bringup - The raspigibbon_bringup package
+ros-kinetic-raspigibbon-control - The raspigibbon_control package
+ros-kinetic-raspigibbon-description - The raspigibbon_description package
+ros-kinetic-raspigibbon-gazebo - The raspigibbon_gazebo package
+ros-kinetic-raspigibbon-msgs - The raspigibbon_msgs package
+ros-kinetic-raspigibbon-ros - The raspigibbon_ros package
+ros-kinetic-raspigibbon-sim - The raspigibbon_sim package
+ros-kinetic-raw-description - This package contains the description (mechanical, kinematic, visual, etc.) of the Care-O-bot robot.
+ros-kinetic-razor-imu-9dof - razor_imu_9dof is a package that provides a ROS driver for the Sparkfun Razor IMU 9DOF.
+ros-kinetic-rb1-base-2dnav - This package configures the move_base stack and makes use of the gmapping and amcl algorithms to move the rb1_base robot
+ros-kinetic-rb1-base-common - The rb1_base_common package.
+ros-kinetic-rb1-base-control - The rb1_base_control package
+ros-kinetic-rb1-base-description - The rb1_base_description package
+ros-kinetic-rb1-base-gazebo - The rb1_base_gazebo package
+ros-kinetic-rb1-base-pad - The rb1_base_pad package
+ros-kinetic-rb1-base-purepursuit - The rb1_base_purepursuit package
+ros-kinetic-rb1-base-sim - The rb1_base_sim metapackage
+ros-kinetic-rbcar-common - The rbcar_common package.
+ros-kinetic-rbcar-control - The rbcar_control package
+ros-kinetic-rbcar-description - The rbcar_description package
+ros-kinetic-rbcar-gazebo - The rbcar_gazebo package
+ros-kinetic-rbcar-joystick - The rbcar_joystick package
+ros-kinetic-rbcar-pad - The rbcar_pad package
+ros-kinetic-rbcar-robot-control - The rbcar_robot_control package
+ros-kinetic-rbcar-sim - The rbcar_sim package.
+ros-kinetic-rbcar-sim-bringup - The rbcar_sim_bringup package
+ros-kinetic-rc-dynamics-api - The rc_dynamics_api provides an API for easy handling of the dynamic-state data streams provided by Roboception's stereo camera with self-localization.
+ros-kinetic-rc-genicam-api - GenICam/GigE Vision Convenience Layer.
+ros-kinetic-rc-visard - Roboception rc_visard support meta package
+ros-kinetic-rc-visard-description - Visualization package for rc_visard
+ros-kinetic-rc-visard-driver - The rc_visard_driver provides data from a Roboception rc_visard 3D sensor on several ROS topics.
+ros-kinetic-rdl - The rdl meta-package
+ros-kinetic-rdl-benchmark - The rdl_benchmark package
+ros-kinetic-rdl-cmake - The rdl_cmake package
+ros-kinetic-rdl-dynamics - The rdl_dynamics package
+ros-kinetic-rdl-urdfreader - The rdl_urdfreader package
+ros-kinetic-realsense-camera - RealSense Camera package allowing access to Intel 3D cameras and advanced modules
+ros-kinetic-realtime-tools - Contains a set of tools that can be used from a hard realtime thread, without breaking the realtime behavior.
+ros-kinetic-resized-image-transport - ROS nodes to publish resized images.
+ros-kinetic-resource-retriever - This package retrieves data from url-format files such as http://, ftp://, package:// file://, etc., and loads the data into memory.
+ros-kinetic-rfsm - This package contains the rFSM flavor of Statecharts.
+ros-kinetic-rgbd-launch - Launch files to open an RGBD device and load all nodelets to convert raw depth/RGB/IR streams to depth images, disparity images, and (registered) point clouds.
+ros-kinetic-rh-p12-rn - ROS messages packages for the ROBOTIS RH-P12-RN (meta package)
+ros-kinetic-rh-p12-rn-base-module - Base module using ROBOTIS framework for RH-P12-RN
+ros-kinetic-rh-p12-rn-base-module-msgs - This package includes ROS messages and services for the rh_p12_rn packages
+ros-kinetic-rh-p12-rn-description - 3D models of the RH-P12-RN for simulation and visualization
+ros-kinetic-rh-p12-rn-gazebo - This package provides basic message pub and launch file to use RH-P12-RN on Gazebo
+ros-kinetic-rh-p12-rn-gui - This package provides GUI interface to control the RH-P12-RN
+ros-kinetic-rh-p12-rn-manager - Manager package using ROBOTIS framework to control the RH-P12-RN
+ros-kinetic-ridgeback-control - Controllers for Ridgeback
+ros-kinetic-ridgeback-description - URDF robot description for Ridgeback
+ros-kinetic-ridgeback-desktop - Packages for working with Ridgeback from a ROS desktop.
+ros-kinetic-ridgeback-gazebo - Launchfiles to use Ridgeback in Gazebo.
+ros-kinetic-ridgeback-gazebo-plugins - A fork of hector_gazebo_plugins to provide the ros_force_based_move plugin.
+ros-kinetic-ridgeback-msgs - Messages exclusive to Ridgeback, especially for representing low-level motor commands and sensors.
+ros-kinetic-ridgeback-navigation - Launch files and code for autonomous navigation of the Ridgeback
+ros-kinetic-ridgeback-simulator - Packages for simulating Ridgeback.
+ros-kinetic-ridgeback-viz - Visualization launchers and helpers for Ridgeback.
+ros-kinetic-robot - A metapackage which extends ros_base and includes ROS libaries for any robot hardware.
+ros-kinetic-robot-activity - The robot_activity package implements ROS node lifecycle
+ros-kinetic-robot-activity-msgs - This package contains messages used by robot_activity, such as node's state and error
+ros-kinetic-robot-activity-tutorials - The robot_activity_tutorials package
+ros-kinetic-robot-calibration - Calibrate a Robot
+ros-kinetic-robot-calibration-msgs - Messages for calibrating a robot
+ros-kinetic-robot-controllers - Some basic robot controllers for use with robot_controllers_interface.
+ros-kinetic-robot-controllers-interface - Generic framework for robot controls.
+ros-kinetic-robot-controllers-msgs - Messages for use with robot_controllers framework.
+ros-kinetic-robot-localization - Provides nonlinear state estimation through sensor fusion of an abritrary number of sensors.
+ros-kinetic-robot-mechanism-controllers - Generic Mechanism Controller Library
+ros-kinetic-robot-model - robot_model contains packages for modeling various aspects of robot information, specified in the Xml Robot Description Format (URDF).
+ros-kinetic-robot-pose-ekf - The Robot Pose EKF package is used to estimate the 3D pose of a robot, based on (partial) pose measurements coming from different sources.
+ros-kinetic-robot-pose-publisher - A Simple Node to Publish the Robot's Position Relative to the Map using TFs
+ros-kinetic-robot-self-filter - Filters the robot's body out of point clouds.
+ros-kinetic-robot-setup-tf-tutorial - The robot_setup_tf_tutorial package
+ros-kinetic-robot-state-publisher - This package allows you to publish the state of a robot to tf.
+ros-kinetic-robot-upstart - The robot_upstart package provides scripts which may be used to install and uninstall Ubuntu Linux upstart jobs which launch groups of roslaunch files.
+ros-kinetic-robotis-controller - robotis_controller package for ROBOTIS's platform like Manipulator-H, THORMANG and OP series
+ros-kinetic-robotis-controller-msgs - This package includes ROS messages and services for robotis_framework packages
+ros-kinetic-robotis-device - The package that manages device information of ROBOTIS robots.
+ros-kinetic-robotis-framework - ROS packages for the robotis_framework (meta package)
+ros-kinetic-robotis-framework-common - The package contains commonly used Headers for the ROBOTIS Framework.
+ros-kinetic-robotis-math - This package is a set of basic math fuctions for ROBOTIS's robots.
+ros-kinetic-robotis-op3 - ROS packages for the robotis_op3 (meta package)
+ros-kinetic-robotis-op3-common - ROS packages for the ROBOTIS OP3 (meta package).
+ros-kinetic-robotis-op3-demo - ROS packages for the robotis_op3_demo (meta package)
+ros-kinetic-robotis-op3-msgs - ROS messages packages for the ROBOTIS OP3 (meta package)
+ros-kinetic-robotis-op3-tools - ROS packages for the robotis_op3_tools (meta package)
+ros-kinetic-robotis-utility - ROS packages for the ROBOTIS Utility (meta package)
+ros-kinetic-robotnik-msgs - The robotnik_msgs package.
+ros-kinetic-robotnik-sensors - Robotnik standard sensors description.
+ros-kinetic-roch - roch Project
+ros-kinetic-roch-base - Sawyer Roch robot driver
+ros-kinetic-roch-bringup - SawYer roch installation and integration package
+ros-kinetic-roch-capabilities - Capabilities for Roch
+ros-kinetic-roch-control - SawYer roch controller configurations
+ros-kinetic-roch-description - SawYer Roch URDF description
+ros-kinetic-roch-follower - Follower for the roch.
+ros-kinetic-roch-ftdi - Utilities for flashing and enabling roch's USB connection.
+ros-kinetic-roch-gazebo - SawYer roch Simulator bringup
+ros-kinetic-roch-msgs - Messages, serivices and actions for SawYer roch
+ros-kinetic-roch-navigation - Autonomous mapping and navigation demos for the SawYer Roch
+ros-kinetic-roch-rapps - The roch_rapps package for set of 'app manager' apps definition
+ros-kinetic-roch-robot - Metapackage for SawYer roch robot software
+ros-kinetic-roch-safety-controller - A controller ensuring the safe operation of roch.
+ros-kinetic-roch-sensorpc - Ult/psd/cliff to pointcloud: Publish Ult, cliff, and psd sensors events as points in a pointcloud, so navistack can use them for poor-man navigation.
+ros-kinetic-roch-simulator - Metapackage for SawYer roch simulation software
+ros-kinetic-roch-teleop - SawYer roch controller configurations
+ros-kinetic-roch-viz - Visualization configuration for SawYer roch
+ros-kinetic-rocon-app-manager - The public interface and retaskable interface for a robot.
+ros-kinetic-rocon-app-manager-msgs - Messages used by the platform app manager.
+ros-kinetic-rocon-app-platform - Robot application platform for ros robots with a default implementation in python.
+ros-kinetic-rocon-app-utilities - The rocon_app_utilities package
+ros-kinetic-rocon-apps - Core rocon apps for use with the appmanager and rocon concert.
+ros-kinetic-rocon-bubble-icons - Bubble icon library for rocon.
+ros-kinetic-rocon-console - Command line python console utilities (mostly for colourisation).
+ros-kinetic-rocon-device-msgs - Messages used by rocon devices
+ros-kinetic-rocon-ebnf - Internal packaging of the 0.91 version of the simple python EBNF parser written by LParis.
+ros-kinetic-rocon-gateway - A hub acts as a shared key-value store for multiple ros systems (primarily used by gateways).
+ros-kinetic-rocon-gateway-tests - Testing programs for gateways.
+ros-kinetic-rocon-gateway-utils - Utilities for gateway users (avoids large dependency requirements).
+ros-kinetic-rocon-hub - A hub acts as a shared key-value store for multiple ros systems (primarily used by gateways).
+ros-kinetic-rocon-hub-client - Client api for discovery and connection to rocon hubs.
+ros-kinetic-rocon-icons - Icons for rocon.
+ros-kinetic-rocon-interaction-msgs - Messages used by rocon interactions.
+ros-kinetic-rocon-interactions - Interaction management for human interactive agents in the concert.
+ros-kinetic-rocon-launch - A multi-roslaunch (for single and multi-master systems).
+ros-kinetic-rocon-master-info - Publish master information - name, description, icon.
+ros-kinetic-rocon-msgs - Communication types (msgs/srvs/actions) for robotics in concert (aka multimaster).
+ros-kinetic-rocon-multimaster - This doesn't do everything you need for multimaster, however it does provide the building blocks common to most or all multimaster systems.
+ros-kinetic-rocon-python-comms - Service pair libraries for pub/sub non-blocking services.
+ros-kinetic-rocon-python-redis - Locally patched version of the python redis client (https://github.com/andymccurdy/redis-py).
+ros-kinetic-rocon-python-utils - Python system and ros utilities.
+ros-kinetic-rocon-python-wifi - The pythonwifi package is available through pypi, but not through a deb package.
+ros-kinetic-rocon-semantic-version - Internal packaging of the 2.2.2 version of the python semantic version module.
+ros-kinetic-rocon-service-pair-msgs - Paired pubsubs generators for non-blocking services.
+ros-kinetic-rocon-std-msgs - Standard messages used by other rocon specific package types.
+ros-kinetic-rocon-test - Rocon test framework (i.e.
+ros-kinetic-rocon-tools - Utilities and tools developed for rocon, but usable beyond the boundaries of rocon.
+ros-kinetic-rocon-tutorial-msgs - Messages used by rocon tutorials.
+ros-kinetic-rocon-unreliable-experiments - Some experiments testing roscpp unreliable transports.
+ros-kinetic-rocon-uri - Module for working with rocon uri strings.
+ros-kinetic-rodi-robot - RoDI ROS package.
+ros-kinetic-romeo-bringup - The romeo_bringup package contains launch and configuration files required to bring ROS interfaces for Romeo up into a running state.
+ros-kinetic-romeo-control - Control for Aldebaran's ROMEO robot
+ros-kinetic-romeo-description - The romeo_description package
+ros-kinetic-romeo-gazebo-plugin - The romeo_gazebo_plugin package
+ros-kinetic-romeo-moveit-config - An automatically generated package with all the configuration and launch files for using the romeoH37 with the MoveIt Motion Planning Framework
+ros-kinetic-romeo-robot - The romeo_robot metapackage
+ros-kinetic-romeo-sensors-py - Package that adds the depth camera to Romeo
+ros-kinetic-roomba-stage - The roomba_stage package
+ros-kinetic-roomblock - The roomblock meta package
+ros-kinetic-roomblock-bringup - The roomblock_bringup package
+ros-kinetic-roomblock-description - The roomblock_description package
+ros-kinetic-roomblock-mapping - The roomblock_mapping package
+ros-kinetic-roomblock-navigation - The roomblock_navigation package
+ros-kinetic-ros - ROS packaging system
+ros-kinetic-ros-apache2 - ros_apache2
+ros-kinetic-ros-base - A metapackage which extends ros_core and includes other basic non-robot tools like actionlib, dynamic reconfigure, nodelets, and pluginlib.
+ros-kinetic-ros-canopen - A generic canopen implementation for ROS
+ros-kinetic-ros-comm - ROS communications-related packages, including core client libraries (roscpp, rospy) and graph introspection tools (rostopic, rosnode, rosservice, rosparam).
+ros-kinetic-ros-control - A set of packages that include controller interfaces, controller managers, transmissions and hardware_interfaces.
+ros-kinetic-ros-control-boilerplate - Simple simulation interface and template for setting up a hardware interface for ros_control
+ros-kinetic-ros-controllers - Library of ros controllers
+ros-kinetic-ros-core - A metapackage to aggregate the packages required to use publish / subscribe, services, launch files, and other core ROS concepts.
+ros-kinetic-ros-emacs-utils - A metapackage of Emacs utils for ROS.
+ros-kinetic-ros-environment - The package provides the environment variables `ROS_VERSION`, `ROS_DISTRO`, `ROS_PACKAGE_PATH`, and `ROS_ETC_DIR`.
+ros-kinetic-ros-explorer - A web interface for exploring the ROS graph
+ros-kinetic-ros-introspection - The ros_introspection package
+ros-kinetic-ros-madplay-player - This package is a node that can playing mp3 file.
+ros-kinetic-ros-mpg321-player - This package is a node that can playing mp3 file.
+ros-kinetic-ros-numpy - A collection of conversion function for extracting numpy arrays from messages
+ros-kinetic-ros-peerjs - ROS Peerjs package
+ros-kinetic-ros-realtime - The ros_realtime package
+ros-kinetic-ros-speech-recognition - ROS wrapper for Python SpeechRecognition library
+ros-kinetic-ros-tutorials - ros_tutorials contains packages that demonstrate various features of ROS, as well as support packages which help demonstrate those features.
+ros-kinetic-ros-type-introspection - The ros_type_introspection package allows the user to parse and deserialize ROS messages which type is unknown at compilation time.
+ros-kinetic-ros-wild - The ros_wild package
+ros-kinetic-rosapi - Provides service calls for getting ros meta-information, like list of topics, services, params, etc.
+ros-kinetic-rosatomic - rosatomic provides the C++11-style atomic operations by pulling symbols from the proposed Boost.Atomic package into the ros namespace.
+ros-kinetic-rosauth - Server Side tools for Authorization and Authentication of ROS Clients
+ros-kinetic-rosbag - This is a set of tools for recording from and playing back to ROS topics.
+ros-kinetic-rosbag-migration-rule - This empty package allows to export rosbag migration rule files without depending on rosbag.
+ros-kinetic-rosbag-storage - This is a set of tools for recording from and playing back ROS message without relying on the ROS client library.
+ros-kinetic-rosbaglive - Plays rosbags as though they were happening NOW.
+ros-kinetic-rosbash - Assorted shell commands for using ros with bash.
+ros-kinetic-rosboost-cfg - Contains scripts used by the rosboost-cfg tool for determining cflags/lflags/etc.
+ros-kinetic-rosbridge-library - The core rosbridge package, repsonsible for interpreting JSON andperforming the appropriate ROS action, like subscribe, publish, call service, and interact with params.
+ros-kinetic-rosbridge-server - A WebSocket interface to rosbridge.
+ros-kinetic-rosbridge-suite - Rosbridge provides a JSON API to ROS functionality for non-ROS programs.
+ros-kinetic-rosbuild - rosbuild contains scripts for managing the CMake-based build system for ROS.
+ros-kinetic-rosclean - rosclean: cleanup filesystem resources (e.g.
+ros-kinetic-roscompile - The roscompile package
+ros-kinetic-rosconsole - ROS console output library.
+ros-kinetic-rosconsole-bridge - rosconsole_bridge is a package used in conjunction with console_bridge and rosconsole for connecting console_bridge-based logging to rosconsole-based logging.
+ros-kinetic-roscpp - roscpp is a C++ implementation of ROS.
+ros-kinetic-roscpp-core - Underlying data libraries for roscpp messages.
+ros-kinetic-roscpp-serialization - roscpp_serialization contains the code for serialization as described in MessagesSerializationAndAdaptingTypes.
+ros-kinetic-roscpp-traits - roscpp_traits contains the message traits code as described in MessagesTraits.
+ros-kinetic-roscpp-tutorials - This package attempts to show the features of ROS step-by-step, including using messages, servers, parameters, etc.
+ros-kinetic-roscreate - roscreate contains a tool that assists in the creation of ROS filesystem resources.
+ros-kinetic-rosdiagnostic - Command to print aggregated diagnostic contents to the command line
+ros-kinetic-rosdoc-lite - This ROS package wraps documentation tools like doxygen, sphinx, and epydoc, making it convenient to generate ROS package documentation.
+ros-kinetic-rosemacs - ROS tools for those who live in Emacs.
+ros-kinetic-roseus - EusLisp client for ROs Robot Operating System.
+ros-kinetic-roseus-smach - roseus_smach * Euslisp state machine class.
+ros-kinetic-roseus-tutorials - roseus_tutorials
+ros-kinetic-rosflight - Package for interfacing to the ROSflight autopilot firmware over MAVLink
+ros-kinetic-rosflight-firmware - Firmware library for software-in-the-loop of the ROSflight ROS stack
+ros-kinetic-rosflight-msgs - Message and service definitions for the ROSflight ROS stack
+ros-kinetic-rosflight-pkgs - ROS interface for the ROSflight autpilot stack
+ros-kinetic-rosflight-sim - Software-in-the-loop (SIL) simulator for the ROSflight firmware
+ros-kinetic-rosflight-utils - Supporting utilities for ROSflight packages
+ros-kinetic-rosgraph - rosgraph contains the rosgraph command-line tool, which prints information about the ROS Computation Graph.
+ros-kinetic-rosgraph-msgs - Messages relating to the ROS Computation Graph.
+ros-kinetic-rosjava - This is a meta package for the official rosjava repositories.
+ros-kinetic-rosjava-bootstrap - Bootstrap utilities for rosjava builds.
+ros-kinetic-rosjava-build-tools - Simple tools and catkin modules for rosjava development.
+ros-kinetic-rosjava-core - An implementation of ROS in pure-Java with Android support.
+ros-kinetic-rosjava-extras - Extra packages for rosjava_core
+ros-kinetic-rosjava-messages - Message generation for rosjava.
+ros-kinetic-rosjava-test-msgs - Test messages for rosjava.
+ros-kinetic-rosjson - rosjson is a Python library for converting ROS messages to JSON (JavaScript Object Notation) representation.
+ros-kinetic-roslang - roslang is a common package that all ROS client libraries depend on.
+ros-kinetic-roslaunch - roslaunch is a tool for easily launching multiple ROS nodes locally and remotely via SSH, as well as setting parameters on the Parameter Server.
+ros-kinetic-roslib - Base dependencies and support libraries for ROS.
+ros-kinetic-roslint - CMake lint commands for ROS packages.
+ros-kinetic-roslisp - Lisp client library for ROS, the Robot Operating System.
+ros-kinetic-roslisp-common - Common libraries to control ROS based robots.
+ros-kinetic-roslisp-repl - This package provides a script that launches Emacs with Slime (the Superior Lisp Interaction Mode) ready for Lisp development and roslisp.
+ros-kinetic-roslisp-utilities - Some utility functionality to interact with ROS using roslisp.
+ros-kinetic-roslz4 - A Python and C++ implementation of the LZ4 streaming format.
+ros-kinetic-rosmake - rosmake is a ros dependency aware build tool which can be used to build all dependencies in the correct order.
+ros-kinetic-rosmaster - ROS Master implementation.
+ros-kinetic-rosmon - Node launcher and monitor for ROS.
+ros-kinetic-rosmsg - rosmsg contains two command-line tools: rosmsg and rossrv.
+ros-kinetic-rosnode - rosnode is a command-line tool for displaying debug information about ROS Nodes, including publications, subscriptions and connections.
+ros-kinetic-rosnode-rtc - This package gives transparency between RTM and ROS.
+ros-kinetic-rosout - System-wide logging mechanism for messages sent to the /rosout topic.
+ros-kinetic-rospack - ROS Package Tool
+ros-kinetic-rosparam - rosparam contains the rosparam command-line tool for getting and setting ROS Parameters on the Parameter Server using YAML-encoded files.
+ros-kinetic-rosparam-handler - An easy wrapper for using parameters in ROS.
+ros-kinetic-rosparam-shortcuts - Quickly load variables from rosparam with good command line error checking.
+ros-kinetic-rospatlite - rospatlite
+ros-kinetic-rospilot - rospilot
+ros-kinetic-rosping - rosping is the tool to send ICMP ECHO_REQUEST to network hosts where roscore is running, and send back to you as rostopic message.
+ros-kinetic-rospy - rospy is a pure Python client library for ROS.
+ros-kinetic-rospy-message-converter - Converts between Python dictionaries and JSON to rospy messages.
+ros-kinetic-rospy-tutorials - This package attempts to show the features of ROS python API step-by-step, including using messages, servers, parameters, etc.
+ros-kinetic-rosrt - rosrt provides classes for interfacing with ROS from within realtime systems, such as realtime-safe Publisher and Subscriber classes.
+ros-kinetic-rosserial - Metapackage for core of rosserial.
+ros-kinetic-rosserial-arduino - rosserial for Arduino/AVR platforms.
+ros-kinetic-rosserial-client - Generalized client side source for rosserial.
+ros-kinetic-rosserial-embeddedlinux - rosserial for embedded Linux enviroments
+ros-kinetic-rosserial-mbed - rosserial for mbed platforms.
+ros-kinetic-rosserial-msgs - Messages for automatic topic configuration using rosserial.
+ros-kinetic-rosserial-python - A Python-based implementation of the rosserial protocol.
+ros-kinetic-rosserial-server - A more performance- and stability-oriented server alternative implemented in C++ to rosserial_python.
+ros-kinetic-rosserial-tivac - rosserial for TivaC Launchpad evaluation boards.
+ros-kinetic-rosserial-windows - rosserial for Windows platforms.
+ros-kinetic-rosserial-xbee - Allows multipoint communication between rosserial nodes connected to an xbee.
+ros-kinetic-rosservice - rosservice contains the rosservice command-line tool for listing and querying ROS Services.
+ros-kinetic-rostest - Integration test suite based on roslaunch that is compatible with xUnit frameworks.
+ros-kinetic-rostful - REST API for ROS
+ros-kinetic-rostime - Time and Duration implementations for C++ libraries, including roscpp.
+ros-kinetic-rostopic - rostopic contains the rostopic command-line tool for displaying debug information about ROS Topics, including publishers, subscribers, publishing rate, and ROS Messages.
+ros-kinetic-rostune - rostune is a tool that helps ROS developers distribute their nodes in the most effective way.
+ros-kinetic-rosunit - Unit-testing package for ROS.
+ros-kinetic-rosweb - rosweb is a temporary package to replace the original rosweb in the ROS repository.
+ros-kinetic-roswtf - roswtf is a tool for diagnosing issues with a running ROS system.
+ros-kinetic-roswww - Feathery lightweight web server for ROS, that is based on Tornado web server module.
+ros-kinetic-rotate-recovery - This package provides a recovery behavior for the navigation stack that attempts to clear space by performing a 360 degree rotation of the robot.
+ros-kinetic-route-network - Route network graphing and path planning.
+ros-kinetic-rplidar-ros - The rplidar ros package, support rplidar A2/A1
+ros-kinetic-rqt - rqt is a Qt-based framework for GUI development for ROS.
+ros-kinetic-rqt-action - rqt_action provides a feature to introspect all available ROS action (from actionlib) types.
+ros-kinetic-rqt-bag - rqt_bag provides a GUI plugin for displaying and replaying ROS bag files.
+ros-kinetic-rqt-bag-plugins - rqt_bag provides a GUI plugin for displaying and replaying ROS bag files.
+ros-kinetic-rqt-bhand - The rqt_bhand package is intended to test the Barrett Hand in graphical mode
+ros-kinetic-rqt-common-plugins - rqt_common_plugins metapackage provides ROS backend graphical tools suite that can be used on/off of robot runtime.
+ros-kinetic-rqt-console - rqt_console provides a GUI plugin for displaying and filtering ROS messages.
+ros-kinetic-rqt-controller-manager - The rqt_controller_manager package
+ros-kinetic-rqt-dep - rqt_dep provides a GUI plugin for visualizing the ROS dependency graph.
+ros-kinetic-rqt-ez-publisher - The rqt_ez_publisher package
+ros-kinetic-rqt-gauges - The rqt_gauges package
+ros-kinetic-rqt-graph - rqt_graph provides a GUI plugin for visualizing the ROS computation graph.
+ros-kinetic-rqt-gui - rqt_gui provides the main to start an instance of the ROS integrated graphical user interface provided by qt_gui.
+ros-kinetic-rqt-gui-cpp - rqt_gui_cpp enables GUI plugins to use the C++ client library for ROS.
+ros-kinetic-rqt-gui-py - rqt_gui_py enables GUI plugins to use the Python client library for ROS.
+ros-kinetic-rqt-image-view - rqt_image_view provides a GUI plugin for displaying images using image_transport.
+ros-kinetic-rqt-joint-trajectory-controller - Graphical frontend for interacting with joint_trajectory_controller instances.
+ros-kinetic-rqt-joint-trajectory-plot - The rqt_joint_trajectory_plot package
+ros-kinetic-rqt-launch - This rqt plugin ROS package provides easy view of .launch files.
+ros-kinetic-rqt-launchtree - An RQT plugin for hierarchical launchfile configuration introspection.
+ros-kinetic-rqt-logger-level - rqt_logger_level provides a GUI plugin for configuring the logger level of ROS nodes.
+ros-kinetic-rqt-moveit - An rqt-based tool that assists monitoring tasks for MoveIt! motion planner developers and users.
+ros-kinetic-rqt-msg - A Python GUI plugin for introspecting available ROS message types.
+ros-kinetic-rqt-multiplot - rqt_multiplot provides a GUI plugin for visualizing numeric values in multiple 2D plots using the Qwt plotting backend.
+ros-kinetic-rqt-nav-view - rqt_nav_view provides a gui for viewing navigation maps and paths.
+ros-kinetic-rqt-plot - rqt_plot provides a GUI plugin visualizing numeric values in a 2D plot using different plotting backends.
+ros-kinetic-rqt-pose-view - rqt_pose_view provides a GUI plugin for visualizing 3D poses.
+ros-kinetic-rqt-pr2-dashboard - rqt_pr2_dashboard is a GUI for debugging and controlling low-level state of the PR2.
+ros-kinetic-rqt-publisher - rqt_publisher provides a GUI plugin for publishing arbitrary messages with fixed or computed field values.
+ros-kinetic-rqt-py-common - rqt_py_common provides common functionality for rqt plugins written in Python.
+ros-kinetic-rqt-py-console - rqt_py_console is a Python GUI plugin providing an interactive Python console.
+ros-kinetic-rqt-py-trees - rqt_py_trees provides a GUI plugin for visualizing py_trees behaviour trees based on rqt_tf_tree.
+ros-kinetic-rqt-reconfigure - This rqt plugin succeeds former dynamic_reconfigure's GUI (reconfigure_gui), and provides the way to view and edit the parameters that are accessible via dynamic_reconfigure.
+ros-kinetic-rqt-robot-dashboard - rqt_robot_dashboard provides an infrastructure for building robot dashboard plugins in rqt.
+ros-kinetic-rqt-robot-monitor - rqt_robot_monitor displays diagnostics_agg topics messages that are published by diagnostic_aggregator.
+ros-kinetic-rqt-robot-plugins - Metapackage of rqt plugins that are particularly used with robots during its operation.
+ros-kinetic-rqt-robot-steering - rqt_robot_steering provides a GUI plugin for steering a robot using Twist messages.
+ros-kinetic-rqt-runtime-monitor - rqt_runtime_monitor provides a GUI plugin viewing DiagnosticsArray messages.
+ros-kinetic-rqt-rviz - rqt_rviz provides a GUI plugin embedding RViz.
+ros-kinetic-rqt-service-caller - rqt_service_caller provides a GUI plugin for calling arbitrary services.
+ros-kinetic-rqt-shell - rqt_shell is a Python GUI plugin providing an interactive shell.
+ros-kinetic-rqt-srv - A Python GUI plugin for introspecting available ROS message types.
+ros-kinetic-rqt-tf-tree - rqt_tf_tree provides a GUI plugin for visualizing the ROS TF frame tree.
+ros-kinetic-rqt-top - RQT plugin for monitoring ROS processes.
+ros-kinetic-rqt-topic - rqt_topic provides a GUI plugin for displaying debug information about ROS topics including publishers, subscribers, publishing rate, and ROS Messages.
+ros-kinetic-rqt-web - rqt_web is a simple web content viewer for rqt.
+ros-kinetic-rqt-wrapper - A wrapper for keeping rqt programs alive.
+ros-kinetic-rtabmap - RTAB-Map's standalone library.
+ros-kinetic-rtabmap-ros - RTAB-Map's ros-pkg.
+ros-kinetic-rtctree - API for interacting with running RT-Components and managing RTM-based systems using OpenRTM-aist.
+ros-kinetic-rtmbuild - Build scripts for OpenRTM and OpenHRP
+ros-kinetic-rtmros-common - A package suite that provides all the capabilities for the ROS users to connect to the robots that run on RT Middleware or RTM-based controllers.
+ros-kinetic-rtmros-hironx - The rtmros_hironx package is an operating interface via ROS and OpenRTM, for Hiro and NEXTAGE OPEN dual-armed robots from Kawada Industries Inc.
+ros-kinetic-rtmros-nextage - The rtmros_nextage package is a ROS interface for Nextage dual-armed robot from Kawada Robotics Inc.
+ros-kinetic-rtshell - Shell commands for managing RT-Middleware running on OpenRTM-aist.
+ros-kinetic-rtsprofile - Library to read, manipulate and write RT system profiles using the RTSProfile XML schema.
+ros-kinetic-rtt - Orocos/RTT component framework
+ros-kinetic-rtt-actionlib - The rtt_actionlib package
+ros-kinetic-rtt-actionlib-msgs - Provides an rtt typekit for ROS actionlib_msgs messages.
+ros-kinetic-rtt-common-msgs - The rtt_common_msgs package
+ros-kinetic-rtt-control-msgs - Provides an rtt typekit for ROS control_msgs messages.
+ros-kinetic-rtt-controller-manager-msgs - Provides an rtt typekit for ROS controller_manager_msgs messages.
+ros-kinetic-rtt-diagnostic-msgs - Provides an rtt typekit for ROS diagnostic_msgs messages.
+ros-kinetic-rtt-dynamic-reconfigure - The rtt_dynamic_reconfigure package
+ros-kinetic-rtt-geometry - This metapackage contains tools for integrating the Orocos Kinematics and Dynamics Library (KDL) with the Orocos Toolchain and Real-Time Toolkit (RTT).
+ros-kinetic-rtt-geometry-msgs - Provides an rtt typekit for ROS geometry_msgs messages.
+ros-kinetic-rtt-kdl-conversions - This package contains the components of the kdl_conversions package
+ros-kinetic-rtt-nav-msgs - Provides an rtt typekit for ROS nav_msgs messages.
+ros-kinetic-rtt-ros - This package provides an RTT plugin to add a ROS node to the RTT process, as well as several wrapper scripts to enable roslaunching of orocos programs.
+ros-kinetic-rtt-ros-comm - The rtt_ros_comm package
+ros-kinetic-rtt-ros-integration - This stack contains all software necessary to build systems using both Orocos and ROS infrastructures
+ros-kinetic-rtt-ros-msgs - This package provides .msg and .srv files for use with the rtt_ros_integration packages.
+ros-kinetic-rtt-rosclock - This package provides an RTT plugin to access different time measurements on a realtime host.
+ros-kinetic-rtt-roscomm - rtt_roscomm provides the necessary template files and cmake macros for automatic rtt typekit and transport generation from ROS msg files
+ros-kinetic-rtt-rosdeployment - rtt_rosdeployment provides an RTT plugin to control an ocl deployment component over ROS service calls.
+ros-kinetic-rtt-rosgraph-msgs - Provides an rtt typekit for ROS rosgraph_msgs messages.
+ros-kinetic-rtt-rosnode - This package provides an RTT plugin to add a ROS node to the RTT process.
+ros-kinetic-rtt-rospack - rtt_rospack provides an RTT plugin to use rospack to find packages in your ROS_PACKAGE_PATH
+ros-kinetic-rtt-rosparam - This package provides an RTT service and service-requester for associating RTT component properties with ROS parameters
+ros-kinetic-rtt-sensor-msgs - Provides an rtt typekit for ROS sensor_msgs messages.
+ros-kinetic-rtt-shape-msgs - Provides an rtt typekit for ROS shape_msgs messages.
+ros-kinetic-rtt-std-msgs - Provides an rtt typekit for ROS std_msgs messages.
+ros-kinetic-rtt-std-srvs - Provides an rtt typekit for ROS std_msgs messages.
+ros-kinetic-rtt-stereo-msgs - Provides an rtt typekit for ROS stereo_msgs messages.
+ros-kinetic-rtt-tf - This package contains the components of the rtt_tf package
+ros-kinetic-rtt-trajectory-msgs - Provides an rtt typekit for ROS trajectory_msgs messages.
+ros-kinetic-rtt-visualization-msgs - Provides an rtt typekit for ROS visualization_msgs messages.
+ros-kinetic-rviz - 3D visualization tool for ROS.
+ros-kinetic-rviz-imu-plugin - RVIZ plugin for IMU visualization
+ros-kinetic-rviz-plugin-tutorials - Tutorials showing how to write plugins for RViz.
+ros-kinetic-rviz-python-tutorial - Tutorials showing how to call into rviz internals from python scripts.
+ros-kinetic-rviz-visual-tools - Utility functions for displaying and debugging data in Rviz via published markers
+ros-kinetic-safe-teleop-base - This package provides automatic collision avoidance and is intended to be used for safer teleoperation of a robot base.
+ros-kinetic-safe-teleop-stage - Demo of safe_teleop in stage
+ros-kinetic-sainsmart-relay-usb - SainSmart USB relay driver controller
+ros-kinetic-sbg-driver - The SBG ROS Driver package
+ros-kinetic-sbpl - Search-based planning library (SBPL).
+ros-kinetic-scan-to-cloud-converter - Converts LaserScan to PointCloud messages.
+ros-kinetic-scan-tools - Laser scan processing tools.
+ros-kinetic-scheduler-msgs - Messages used by the rocon scheduler.
+ros-kinetic-schunk-canopen-driver - The schunk_canopen_driver package
+ros-kinetic-schunk-description - This package contains the description (mechanical, kinematic, visual, etc.) of different schunk components.
+ros-kinetic-schunk-libm5api - This package wraps the libm5api to use it as a ros dependency.
+ros-kinetic-schunk-modular-robotics - This stack includes packages that provide access to the Schunk hardware through ROS messages, services and actions.
+ros-kinetic-schunk-powercube-chain - This packages provides a configurable driver of a chain of Schunk powercubes.
+ros-kinetic-schunk-sdh - This package provides an interface for operating the schunk dexterous hand (SDH), including the tactile sensors.
+ros-kinetic-schunk-simulated-tactile-sensors - This package provides simulated tactile sensors for the Schunk Dextrous Hand (SDH) which is mounted on the Care-O-bot arm.
+ros-kinetic-schunk-svh-driver - SVH Driver wrapper to enable control of the Schunk five finger hand
+ros-kinetic-self-test - self_test
+ros-kinetic-semantic-point-annotator - A node which annotates 3D point cloud data with semantic labels.
+ros-kinetic-sensor-module-tutorial - The sensor_module_tutorial package
+ros-kinetic-sensor-msgs - This package defines messages for commonly used sensors, including cameras and scanning laser rangefinders.
+ros-kinetic-serial - Serial is a cross-platform, simple to use library for using serial ports on computers.
+ros-kinetic-serial-utils - A package which adds useful additions to the serial package.
+ros-kinetic-service-tools - Service tools
+ros-kinetic-settlerlib - Defines helper functions and routines that greatly help when trying to create a settler for a specific sensor channel.
+ros-kinetic-shape-msgs - This package contains messages for defining shapes, such as simple solid object primitives (cube, sphere, etc), planes, and meshes.
+ros-kinetic-sick-scan - A ROS driver for the SICK TiM and SICK MRS series of laser scanners.
+ros-kinetic-sick-tim - A ROS driver for the SICK TiM and the SICK MRS 1000 laser scanners.
+ros-kinetic-sick-visionary-t - Open source driver for the SICK Visionary-T 3D TOF camera.
+ros-kinetic-sick-visionary-t-driver - Open source driver for the SICK Visionary-T 3D TOF camera.
+ros-kinetic-simple-arm - Simple velocity controlled arm.
+ros-kinetic-simple-drive - A full, but simple robot drive system.
+ros-kinetic-simple-grasping - Basic grasping applications and demos.
+ros-kinetic-simple-message - simple_message defines a simple messaging connection and protocol for communicating with an industrial robot controller.
+ros-kinetic-simple-navigation-goals-tutorial - The simple_navigation_goals_tutorial package
+ros-kinetic-simulators - A metapackage to aggregate several packages.
+ros-kinetic-single-joint-position-action - The single joint position action is a node that provides an action interface for commanding a trajectory to move a joint to a particular position.
+ros-kinetic-skybiometry-ros - The skybiometry_ros package
+ros-kinetic-slam-gmapping - slam_gmapping contains a wrapper around gmapping which provides SLAM capabilities.
+ros-kinetic-slam-karto - This package pulls in the Karto mapping library, and provides a ROS wrapper for using it.
+ros-kinetic-slic - SLIC-Superpizel ROS Wrapper This file contains the class elements of the class Slic.
+ros-kinetic-slime-ros - Extensions for slime to assist in working with ROS packages
+ros-kinetic-slime-wrapper - ROS wrapper for slime
+ros-kinetic-smach - SMACH is a task-level architecture for rapidly creating complex robot behavior.
+ros-kinetic-smach-msgs - this package contains a set of messages that are used by the introspection interfaces for smach.
+ros-kinetic-smach-ros - The smach_ros package contains extensions for the SMACH library to integrate it tightly with ROS.
+ros-kinetic-smach-viewer - The smach viewer is a GUI that shows the state of hierarchical SMACH state machines.
+ros-kinetic-smclib - The State Machine Compiler (SMC) from http://smc.sourceforge.net/ converts a language-independent description of a state machine into the source code to support that state machine.
+ros-kinetic-sns-ik-lib - Saturation in the Null Space (SNS) Inverse Kinematic Library.
+ros-kinetic-social-navigation-layers - Plugin-based layers for the navigation stack that implement various social navigation contraints, like proxemic distance.
+ros-kinetic-socketcan-bridge - Conversion nodes for messages from SocketCAN to a ROS Topic and vice versa.
+ros-kinetic-socketcan-interface - Generic CAN interface description with helpers for filtering and driver implementation.
+ros-kinetic-soem - SOEM is an open source EtherCAT master library written in c.
+ros-kinetic-sophus - C++ implementation of Lie Groups using Eigen.
+ros-kinetic-sophus-ros-conversions - Conversions between ros and sophus.
+ros-kinetic-sound-play - sound_play provides a ROS node that translates commands on a ROS topic (robotsound) into sounds.
+ros-kinetic-spacenav-node - ROS interface to the 3Dconnexion SpaceNavigator 6DOF joystick.
+ros-kinetic-sparse-bundle-adjustment - ROS wrapper for the sparse bundle adjustment (sba) library (needed for slam_karto)
+ros-kinetic-speech-recognition-msgs - speech_recognition_msgs
+ros-kinetic-srdfdom - Parser for Semantic Robot Description Format (SRDF).
+ros-kinetic-srv-tools - Stack with interesting ROS tools
+ros-kinetic-stage - Mobile robot simulator http://rtv.github.com/Stage
+ros-kinetic-stage-ros - This package provides ROS specific hooks for stage
+ros-kinetic-statistics-msgs - Messages related to the Point Grey camera driver.
+ros-kinetic-std-capabilities - This package contains standard capability interfaces, which describe common robot capabilities in terms of ROS concepts such as topics, services, actions, and parameters.
+ros-kinetic-std-msgs - Standard ROS Messages including common message types representing primitive data types and other basic message constructs, such as multiarrays.
+ros-kinetic-std-srvs - Common service definitions.
+ros-kinetic-stdr-gui - A gui in Qt for visualizing purposes in STDR Simulator.
+ros-kinetic-stdr-launchers - Launch files, to easily bringup server, robots, guis
+ros-kinetic-stdr-msgs - Provides msgs, services and actions for STDR Simulator.
+ros-kinetic-stdr-parser - Provides a library to STDR Simulator, to parse yaml and xml description files.
+ros-kinetic-stdr-resources - Provides robot and sensor descripiton files for STDR Simulator.
+ros-kinetic-stdr-robot - Provides robot, sensor implementation, using nodelets for stdr_server to load them.
+ros-kinetic-stdr-samples - Provides sample codes to demonstrate STDR simulator functionalities.
+ros-kinetic-stdr-server - Implements synchronization and coordination functionalities of STDR Simulator.
+ros-kinetic-stdr-simulator - A simple, flexible and scalable 2D multi-robot simulator.
+ros-kinetic-stereo-image-proc - Stereo and single image rectification and disparity processing.
+ros-kinetic-stereo-msgs - stereo_msgs contains messages specific to stereo processing, such as disparity images.
+ros-kinetic-summit-x-common - The summit_x_common package
+ros-kinetic-summit-x-control - This package contains the launch files that load the required controller interfaces for simulation in Gazebo.
+ros-kinetic-summit-x-description - The summit_x_description package
+ros-kinetic-summit-x-gazebo - Launch files and world files to start the models in gazebo
+ros-kinetic-summit-x-robot-control - Control the robot joints in all kinematic configurations, publishes odom topic and, if configured, also tf odom to base_link.
+ros-kinetic-summit-x-sim - The summit_x_sim metapackage
+ros-kinetic-summit-x-sim-bringup - Launch files for Summit-X simulation.
+ros-kinetic-summit-xl-common - URDF description of the Summit XL and Summit XL HL, platform messages and other files for simulation.
+ros-kinetic-summit-xl-control - This package contains the launch files that load the required controller interfaces for simulation in Gazebo.
+ros-kinetic-summit-xl-description - URDF description of the Summit XL and Summit XL HL and omni versions
+ros-kinetic-summit-xl-gazebo - Launch files and world files to start the models in gazebo
+ros-kinetic-summit-xl-localization - The summit_xl_localization package
+ros-kinetic-summit-xl-navigation - Navigation launch and config files for Summit XL robot.
+ros-kinetic-summit-xl-pad - The summit_xl_pad package allows to control the summit_xl product range (summit_xl, summit_xl_omni, x_wam) teleoperation
+ros-kinetic-summit-xl-robot-control - Control the robot joints in all kinematic configurations, publishes odom topic and, if configured, also tf odom to base_link.
+ros-kinetic-summit-xl-sim - The summit_xl_sim metapackage
+ros-kinetic-summit-xl-sim-bringup - Launch files for Summit XL simulation.
+ros-kinetic-swri-console - A rosout GUI viewer developed at Southwest Research Insititute as an alternative to rqt_console.
+ros-kinetic-swri-console-util - swri_console_util
+ros-kinetic-swri-dbw-interface - This package provides documentation on common interface conventions for drive-by-wire systems.
+ros-kinetic-swri-geometry-util - swri_geometry_util
+ros-kinetic-swri-image-util - swri_image_util
+ros-kinetic-swri-math-util - swri_math_util
+ros-kinetic-swri-nodelet - This package provides a simple script to write simple launch files that can easily switch between running nodelets together or as standalone nodes.
+ros-kinetic-swri-opencv-util - swri_opencv_util
+ros-kinetic-swri-prefix-tools - Contains scripts that are useful as prefix commands for nodes started by roslaunch.
+ros-kinetic-swri-roscpp - swri_roscpp
+ros-kinetic-swri-rospy - This package provides added functionaliy on top of rospy, including a single-threaded callback queue.
+ros-kinetic-swri-route-util - This library provides functionality to simplify working with the navigation messages defined in marti_nav_msgs.
+ros-kinetic-swri-serial-util - swri_serial_util
+ros-kinetic-swri-string-util - swri_string_util
+ros-kinetic-swri-system-util - swri_system_util
+ros-kinetic-swri-transform-util - The swri_transform_util package contains utility functions and classes for transforming between coordinate frames.
+ros-kinetic-swri-yaml-util - Provides wrappers around the yaml-cpp library for various utility functions and to abstract out the API changes made to yaml-cpp between ubuntu:precise and ubuntu:trusty.
+ros-kinetic-sync-params - Synchronises parameters across multiple masters.
+ros-kinetic-tango-ros-messages - This package contains messages/services used by tango ros lib
+ros-kinetic-task-compiler - task_compiler Compiler that translate task description in PDDL (Planning Domain Description Language) to SMACH (state machine based execution and coordination system) description.
+ros-kinetic-tblib - Traceback fiddling library.
+ros-kinetic-teb-local-planner - The teb_local_planner package implements a plugin to the base_local_planner of the 2D navigation stack.
+ros-kinetic-teb-local-planner-tutorials - The teb_local_planner_tutorials package
+ros-kinetic-teleop-tools - A set of generic teleoperation tools for any robot.
+ros-kinetic-teleop-tools-msgs - The teleop_tools_msgs package
+ros-kinetic-teleop-twist-joy - Generic joystick teleop for twist robots.
+ros-kinetic-teleop-twist-keyboard - Generic keyboard teleop for twist robots.
+ros-kinetic-tensorflow-ros - The tensorflow_ros package
+ros-kinetic-tensorflow-ros-rqt - The tensorflow_ros_rqt package
+ros-kinetic-teraranger - The teraranger package
+ros-kinetic-teraranger-array - The teraranger_array package for TeraRanger Array Products (Multiflex, One)
+ros-kinetic-teraranger-array-converter - Package that handle conversion from RangeArray messsages
+ros-kinetic-teraranger-description - The teraranger_description package
+ros-kinetic-test-catkin-virtualenv - Package to test catkin_virtualenv.
+ros-kinetic-test-catkin-virtualenv-py3 - Package to test catkin_virtualenv in Python 3.
+ros-kinetic-test-diagnostic-aggregator - Basic diagnostic_aggregator tests are in the
+ros-kinetic-test-mavros - Tests for MAVROS package
+ros-kinetic-test-osm - These are regression tests for the osm_cartography and route_network packages.
+ros-kinetic-tf - tf is a package that lets the user keep track of multiple coordinate frames over time.
+ros-kinetic-tf-conversions - This package contains a set of conversion functions to convert common tf datatypes (point, vector, pose, etc) into semantically identical datatypes used by other libraries.
+ros-kinetic-tf-tools - ROS tools and scripts relates to tf
+ros-kinetic-tf2 - tf2 is the second generation of the transform library, which lets the user keep track of multiple coordinate frames over time.
+ros-kinetic-tf2-bullet - tf2_bullet
+ros-kinetic-tf2-eigen - tf2_eigen
+ros-kinetic-tf2-geometry-msgs - tf2_geometry_msgs
+ros-kinetic-tf2-kdl - KDL binding for tf2
+ros-kinetic-tf2-msgs - tf2_msgs
+ros-kinetic-tf2-py - The tf2_py package
+ros-kinetic-tf2-relay - Specialization of message_relay for tf2
+ros-kinetic-tf2-ros - This package contains the ROS bindings for the tf2 library, for both Python and C++.
+ros-kinetic-tf2-sensor-msgs - Small lib to transform sensor_msgs with tf.
+ros-kinetic-tf2-tools - tf2_tools
+ros-kinetic-tf2-web-republisher - Republishing of Selected TFs
+ros-kinetic-theora-image-transport - Theora_image_transport provides a plugin to image_transport for transparently sending an image stream encoded with the Theora codec.
+ros-kinetic-thormang3-action-editor - The thormang3_action_editor package This package is a action editor for thormang3.
+ros-kinetic-thormang3-action-module - This package is a motion module that can play the saved action.
+ros-kinetic-thormang3-action-module-msgs - This package is a set of messages and services for using thormang3_action_module.
+ros-kinetic-thormang3-action-script-player - This package provides a action script playing for thormang3.
+ros-kinetic-thormang3-balance-control - The thormang3_balance_control package This balance control is based on PD control.
+ros-kinetic-thormang3-base-module - The thormang3_base_module package
+ros-kinetic-thormang3-common - ROS packages for the thormang3_common (meta package)
+ros-kinetic-thormang3-demo - A GUI program for controlling a THORMANG3.
+ros-kinetic-thormang3-description - 3D models of the Thormang3 for simulation and visualization
+ros-kinetic-thormang3-feet-ft-module - This package is a sensor module for force torque sensors on feet.
+ros-kinetic-thormang3-feet-ft-module-msgs - This package is a set of messages and services for using thormang3_feet_ft_module.
+ros-kinetic-thormang3-foot-step-generator - This package provides foot step generation for the thormang3
+ros-kinetic-thormang3-gazebo - This package provides basic message pub and launch file to use Thormang3 on Gazebo
+ros-kinetic-thormang3-gripper-module - The thormang3_gripper_module package
+ros-kinetic-thormang3-head-control-module - A module to control the head.
+ros-kinetic-thormang3-head-control-module-msgs - This package is a set of messages and services for using thormang3_head_control_module.
+ros-kinetic-thormang3-imu-3dm-gx4 - Driver for Microstrain 3DM-GX4-25 IMU This package is modified by robotis.
+ros-kinetic-thormang3-kinematics-dynamics - This package provides a kinematics and dynamics impletation for the thormang3.
+ros-kinetic-thormang3-manager - This package describes robot manager to execute THORMANG3's motion modules.
+ros-kinetic-thormang3-manipulation-demo - The thormang3_manipulation_demo package
+ros-kinetic-thormang3-manipulation-module - This package describes basic function to control THORMANG3's upper-body.
+ros-kinetic-thormang3-manipulation-module-msgs - This package is a set of messages and services for using thormang3_manipulation_module.
+ros-kinetic-thormang3-mpc - ROS packages for the thormang3_mpc (meta package)
+ros-kinetic-thormang3-mpc-sensors - ROS packages for the thormang3_mpc_sensors (meta package)
+ros-kinetic-thormang3-msgs - ROS packages for the thormang3_msgs (meta package)
+ros-kinetic-thormang3-navigation - This package is for generating footsteps.
+ros-kinetic-thormang3-offset-tuner-client - The GUI program that can adjust offset of THORMANG3.
+ros-kinetic-thormang3-offset-tuner-msgs - This package is a set of messages and services for using thormang3_offset_tuner.
+ros-kinetic-thormang3-offset-tuner-server - The offset_tuner_server package
+ros-kinetic-thormang3-opc - ROS packages for the thormang3_opc (meta package)
+ros-kinetic-thormang3-ppc - ROS packages for the thormang3_ppc (meta package)
+ros-kinetic-thormang3-sensors - This package contains sensor related launch files.
+ros-kinetic-thormang3-tools - ROS packages for the thormang3_tools (meta package)
+ros-kinetic-thormang3-walking-demo - The thormang3_walking_demo package This package describes how to use thormang3_walking_module.
+ros-kinetic-thormang3-walking-module - This package is a motion module for thormang3 walking.
+ros-kinetic-thormang3-walking-module-msgs - This package is a set of messages and services for using thormang3_walking_module.
+ros-kinetic-tile-map - Tile map provides a slippy map style interface for visualizing OpenStreetMap and GooleMap tiles.
+ros-kinetic-timestamp-tools - This package is currently for internal use only.
+ros-kinetic-topic-tools - Tools for directing, throttling, selecting, and otherwise messing with ROS topics at a meta level.
+ros-kinetic-tra1-bringup - Package contains bringup scripts/config/tools for tra1 robto
+ros-kinetic-tra1-description - This package contains the description (mechanical, kinematic, visual, etc.) of the TRA1 robot.
+ros-kinetic-tra1-moveit-config - An automatically generated package with all the configuration and launch files for using the tra1 with the MoveIt! Motion Planning Framework
+ros-kinetic-trac-ik - The ROS packages in this repository were created to provide an improved alternative Inverse Kinematics solver to the popular inverse Jacobian methods in KDL.
+ros-kinetic-trac-ik-examples - This package contains the source code for testing and comparing trac_ik
+ros-kinetic-trac-ik-kinematics-plugin - A MoveIt! Kinematics plugin using TRAC-IK
+ros-kinetic-trac-ik-lib - TRAC-IK is a faster, significantly more reliable drop-in replacement for KDL's pseudoinverse Jacobian solver.
+ros-kinetic-trac-ik-python - The trac_ik_python package contains a python wrapper using SWIG for trac_ik_lib
+ros-kinetic-tracetools - Wrapper interface for tracing libraries
+ros-kinetic-trajectory-msgs - This package defines messages for defining robot trajectories.
+ros-kinetic-transmission-interface - Transmission Interface.
+ros-kinetic-turtle-actionlib - turtle_actionlib demonstrates how to write an action server and client with the turtlesim.
+ros-kinetic-turtle-tf - turtle_tf demonstrates how to write a tf broadcaster and listener with the turtlesim.
+ros-kinetic-turtle-tf2 - turtle_tf2 demonstrates how to write a tf2 broadcaster and listener with the turtlesim.
+ros-kinetic-turtlebot - The turtlebot meta package provides all the basic drivers for running and using a TurtleBot.
+ros-kinetic-turtlebot-actions - turtlebot_actions provides several basic actionlib actions for the TurtleBot.
+ros-kinetic-turtlebot-apps - turtlebot_apps is a group of simple demos and exmaples to run on your TurtleBot to help you get started with ROS and TurtleBot.
+ros-kinetic-turtlebot-bringup - turtlebot_bringup provides roslaunch scripts for starting the TurtleBot base functionality.
+ros-kinetic-turtlebot-calibration - turtlebot_calibration
+ros-kinetic-turtlebot-capabilities - Capabilities for the TurtleBot
+ros-kinetic-turtlebot-create - Catkin metapackage for the turtlebot_create stack
+ros-kinetic-turtlebot-dashboard - Launchers for the base-specific dashboards
+ros-kinetic-turtlebot-description - turtlebot_description provides a complete 3D model of the TurtleBot for simulation and visualization.
+ros-kinetic-turtlebot-follower - Follower for the turtlebot.
+ros-kinetic-turtlebot-gazebo - Gazebo launchers and worlds for TurtleBot simulation
+ros-kinetic-turtlebot-interactions - Catkin meta-package for turtlebot_interactions
+ros-kinetic-turtlebot-interactive-markers - Interactive control for the TurtleBot using RViz and interactive markers
+ros-kinetic-turtlebot-msgs - Turtlebot messages, services and actions
+ros-kinetic-turtlebot-navigation - turtlebot_navigation
+ros-kinetic-turtlebot-rapps - The core set of turtlebot 'app manager' apps are defined in this package.
+ros-kinetic-turtlebot-rviz-launchers - Launchers for visualizing TurtleBot
+ros-kinetic-turtlebot-simulator - Catkin metapackage for the turtlebot_simulator stack
+ros-kinetic-turtlebot-stage - Stage version of turtlebot simulation.
+ros-kinetic-turtlebot-stdr - Stdr version of turtlebot simulation.
+ros-kinetic-turtlebot-teleop - Provides teleoperation using joysticks or keyboard.
+ros-kinetic-turtlebot3 - ROS packages for the Turtlebot3 (meta package)
+ros-kinetic-turtlebot3-applications - ROS packages for the turtlebot3 applications (meta package)
+ros-kinetic-turtlebot3-automatic-parking - Package for turtlebot3 automatic_parking.
+ros-kinetic-turtlebot3-automatic-parking-vision - Package for TurtleBot3 automatic_parking which uses ar code.
+ros-kinetic-turtlebot3-autorace - AutoRace ROS packages for AutoRace with TurtleBot3 (meta package)
+ros-kinetic-turtlebot3-autorace-camera - TurtleBot3 AutoRace ROS package that controls Raspberry Pi Camera, and process the image
+ros-kinetic-turtlebot3-autorace-control - TurtleBot3 AutoRace ROS package that controls TurtleBot3 Auto
+ros-kinetic-turtlebot3-autorace-core - TurtleBot3 AutoRace ROS package that TurtleBot3 Auto's core
+ros-kinetic-turtlebot3-autorace-detect - AutoRace ROS packages for feature detection with TurtleBot3 Auto
+ros-kinetic-turtlebot3-bringup - roslaunch scripts for starting the TurtleBot3
+ros-kinetic-turtlebot3-description - 3D models of the TurtleBot3 for simulation and visualization
+ros-kinetic-turtlebot3-example - This package provides four turtlebot3 basic example include move using interactive marker, move and stop using LDS, move to goal position, move to custom routes.
+ros-kinetic-turtlebot3-fake - Package for TurtleBot3 fake node.
+ros-kinetic-turtlebot3-follow-filter - turtlebot3_follow_filter package using laser_filters for turtlebot3_follower package
+ros-kinetic-turtlebot3-follower - The follower demo was implemented using a 360 Laser Distance Sensor LDS-01.
+ros-kinetic-turtlebot3-gazebo-ros - Gazebo simulation package for the TurtleBot3
+ros-kinetic-turtlebot3-msgs - Message and service types: custom messages and services for TurtleBot3 packages
+ros-kinetic-turtlebot3-navigation - The turtlebot3_navigation provides roslaunch scripts for starting the navigation.
+ros-kinetic-turtlebot3-panorama - This app utilises pano_ros for taking snapshots and stitching them together to create panorama pictures.
+ros-kinetic-turtlebot3-simulations - ROS packages for the turtlebot3 simulation (meta package)
+ros-kinetic-turtlebot3-slam - The turtlebot3_slam package provides roslaunch scripts for starting the SLAM
+ros-kinetic-turtlebot3-teleop - Provides teleoperation using keyboard for TurtleBot3.
+ros-kinetic-turtlesim - turtlesim is a tool made for teaching ROS and ROS packages.
+ros-kinetic-tuw-airskin-msgs - The tuw_airskin_msgs package
+ros-kinetic-tuw-aruco - This is a wrapper around the marker detection library ArUco.
+ros-kinetic-tuw-ellipses - The tuw_ellipses package contains a computer vision library which is able to detect ellipses within images.
+ros-kinetic-tuw-gazebo-msgs - Message and service data structures.
+ros-kinetic-tuw-geometry-msgs - The tuw_geometry_msgs package
+ros-kinetic-tuw-marker-detection - The tuw_marker_detection package
+ros-kinetic-tuw-marker-pose-estimation - This node does pose estimation for detected fiducials (marker_msgs/FiducialDetection.msg)
+ros-kinetic-tuw-msgs - The tuw_msgs meta package
+ros-kinetic-tuw-multi-robot-msgs - The tuw_multi_robot_msgs package
+ros-kinetic-tuw-nav-msgs - The tuw_nav_msgs package
+ros-kinetic-tuw-object-msgs - The tuw_object_msgs package
+ros-kinetic-tuw-vehicle-msgs - The tuw_vehicle_msgs package
+ros-kinetic-twist-mux - Twist multiplexer, which multiplex several velocity commands (topics) and allows to priorize or disable them (locks).
+ros-kinetic-twist-mux-msgs - The twist_mux msgs and actions package
+ros-kinetic-twistimu - ROS Node that convert IMU data to a Twist for manual robot drive.
+ros-kinetic-ubiquity-motor - Provides a ROS interface to Ubiquity Robotics Magni motor controllers
+ros-kinetic-ueye - Driver for IDS Imaging uEye cameras.
+ros-kinetic-ueye-cam - A ROS nodelet and node that wraps the driver API for UEye cameras by IDS Imaging Development Systems GMBH.
+ros-kinetic-um6 - The um6 package provides a C++ implementation of the CH Robotics serial protocol, and a corresponding ROS node for publishing standard ROS orientation topics from a UM6.
+ros-kinetic-um7 - The um7 package provides a C++ implementation of the CH Robotics serial protocol, and a corresponding ROS node for publishing standard ROS orientation topics from a UM7.
+ros-kinetic-underwater-sensor-msgs - Common messages for underwater robotics
+ros-kinetic-underwater-vehicle-dynamics - An underwater dynamics module
+ros-kinetic-unique-id - ROS Python and C++ interfaces for universally unique identifiers.
+ros-kinetic-unique-identifier - ROS messages and interfaces for universally unique identifiers.
+ros-kinetic-universal-robot - Drivers, description, and utilities for Universal Robot Arms.
+ros-kinetic-ur-bringup - The ur_bringup package
+ros-kinetic-ur-description - URDF description for Universal UR5/10 robot arms
+ros-kinetic-ur-driver - Driver for the UR5/10 arm based on the Polyscope control scheme.
+ros-kinetic-ur-gazebo - Gazebo wrapper for the Universal UR5/10 robot arms.
+ros-kinetic-ur-kinematics - Provides forward and inverse kinematics for Universal Robots designs.
+ros-kinetic-ur-msgs - The ur_msgs package
+ros-kinetic-ur10-moveit-config - An automatically generated package with all the configuration and launch files for using the ur10 with the MoveIt Motion Planning Framework
+ros-kinetic-ur3-moveit-config - An automatically generated package with all the configuration and launch files for using the ur3 with the MoveIt Motion Planning Framework
+ros-kinetic-ur5-moveit-config - An automatically generated package with all the configuration and launch files for using the ur5 with the MoveIt Motion Planning Framework
+ros-kinetic-urdf - This package contains a C++ parser for the Unified Robot Description Format (URDF), which is an XML format for representing a robot model.
+ros-kinetic-urdf-geometry-parser - Extract geometry value of a vehicle from urdf
+ros-kinetic-urdf-parser-plugin - This package contains a C++ base class for URDF parsers.
+ros-kinetic-urdf-sim-tutorial - The urdf_sim_tutorial package
+ros-kinetic-urdf-tutorial - This package contains a number of URDF tutorials.
+ros-kinetic-urdfdom-py - Python implementation of the URDF parser.
+ros-kinetic-urg-c - The urg_c package
+ros-kinetic-urg-node - urg_node
+ros-kinetic-usb-cam - A ROS Driver for V4L USB Cameras
+ros-kinetic-uuid-msgs - ROS messages for universally unique identifiers.
+ros-kinetic-uvc-camera - A collection of node(let)s that stream images from USB cameras (UVC) and provide CameraInfo messages to consumers.
+ros-kinetic-uwsim-bullet - The bullet library.
+ros-kinetic-uwsim-osgbullet - The OSG Bullet library adapted to UWSim.
+ros-kinetic-uwsim-osgocean - The OSG Ocean library adapted to UWSim.
+ros-kinetic-uwsim-osgworks - The OSG Works library adapted to UWSim.
+ros-kinetic-variant - Meta-package for the universal variant library.
+ros-kinetic-variant-msgs - Variant messages are designed to accommodate the information content of any invariant message.
+ros-kinetic-variant-topic-test - Variant topic tools testing suites.
+ros-kinetic-variant-topic-tools - Topic tools for treating messages as variant types.
+ros-kinetic-velocity-controllers - velocity_controllers
+ros-kinetic-velodyne - Basic ROS support for the Velodyne 3D LIDARs.
+ros-kinetic-velodyne-description - URDF and meshes describing Velodyne laser scanners.
+ros-kinetic-velodyne-driver - ROS device driver for Velodyne 3D LIDARs.
+ros-kinetic-velodyne-gazebo-plugins - Gazebo plugin to provide simulated data from Velodyne laser scanners.
+ros-kinetic-velodyne-laserscan - Extract a single ring of a Velodyne PointCloud2 and publish it as a LaserScan message
+ros-kinetic-velodyne-msgs - ROS message definitions for Velodyne 3D LIDARs.
+ros-kinetic-velodyne-pointcloud - Point cloud conversions for Velodyne 3D LIDARs.
+ros-kinetic-velodyne-simulator - Metapackage allowing easy installation of Velodyne simulation components.
+ros-kinetic-video-stream-opencv - The video_stream_opencv package contains a node to publish a video stream (the protocols that opencv supports are supported, including rtsp, webcams on /dev/video and video files) in ROS image topics, it supports camera info and basic image flipping (horizontal, vertical or both) capabilities, also adjusting publishing rate.
+ros-kinetic-view-controller-msgs - Messages for (camera) view controllers
+ros-kinetic-virtual-force-publisher - publish end effector's force, which is estmated from joint torque value
+ros-kinetic-vision-msgs - Messages for interfacing with various computer vision pipelines, such as object detectors.
+ros-kinetic-vision-opencv - Packages for interfacing ROS with OpenCV, a library of programming functions for real time computer vision.
+ros-kinetic-vision-visp - Virtual package providing ViSP related packages.
+ros-kinetic-visp - ViSP standing for Visual Servoing Platform is a modular cross platform library that allows prototyping and developing applications using visual tracking and visual servoing technics at the heart of the researches done by Inria Lagadic team.
+ros-kinetic-visp-auto-tracker - Online automated pattern-based object tracker relying on visual servoing.
+ros-kinetic-visp-bridge - Converts between ROS structures and ViSP structures.
+ros-kinetic-visp-camera-calibration - visp_camera_calibration allows easy calibration of cameras using a customizable pattern and ViSP library.
+ros-kinetic-visp-hand2eye-calibration - visp_hand2eye_calibration estimates the camera position with respect to its effector using the ViSP library.
+ros-kinetic-visp-tracker - Wraps the ViSP moving edge tracker provided by the ViSP visual servoing library into a ROS package.
+ros-kinetic-visualization-marker-tutorials - The visulalization_marker_tutorials package
+ros-kinetic-visualization-msgs - visualization_msgs is a set of messages used by higher level packages, such as rviz, that deal in visualization-specific data.
+ros-kinetic-visualization-osg - visualization_osg is a metapackage providing support for visualization of geometry using the OpenSceneGraph rendering engine.
+ros-kinetic-visualization-tutorials - Metapackage referencing tutorials related to rviz and visualization.
+ros-kinetic-viz - A metapackage to aggregate several packages.
+ros-kinetic-voice-text - voice_text (www.voicetext.jp)
+ros-kinetic-voxel-grid - voxel_grid provides an implementation of an efficient 3D voxel grid.
+ros-kinetic-vrpn - The VRPN is a library and set of servers that interfaces with virtual-reality systems, such as VICON, OptiTrack, and others.
+ros-kinetic-vrpn-client-ros - ROS client nodes for the VRPN library, compatible with VICON, OptiTrack, and other hardware interfaces.
+ros-kinetic-vs060 - This package provides ORiN-based controller functionality for VS060, a Denso's virtical multi-joint robot.
+ros-kinetic-vs060-gazebo - Gazebo simulation package for Denso vs060 arm.
+ros-kinetic-vs060-moveit-config - An automatically generated package with all the configuration and launch files for using the vs060A1_AV6_NNN_NNN with the MoveIt Motion Planning Framework
+ros-kinetic-warehouse-ros - Persistent storage of ROS messages
+ros-kinetic-warthog-control - Controllers for Warthog
+ros-kinetic-warthog-description - URDF robot description for Warthog
+ros-kinetic-warthog-msgs - Messages exclusive to Warthog, especially for representing low-level motor commands and sensors.
+ros-kinetic-waypoint-generator - Generates waypoint yaml file
+ros-kinetic-waypoint-meta - Waypoint Meta package
+ros-kinetic-waypoint-touring - Tours around the waypoints
+ros-kinetic-web-interface - The web_interface package
+ros-kinetic-web-msgs - web_msgs
+ros-kinetic-web-video-server - HTTP Streaming of ROS Image Topics in Multiple Formats
+ros-kinetic-webargs - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.
+ros-kinetic-webkit-dependency - This encapsulates the WebKit dependency for a specific ROS distribution and its Qt version
+ros-kinetic-webtest - Wraps any WSGI application and makes it easy to send test requests to that application, without starting up an HTTP server.
+ros-kinetic-webui - A web interface to install and launch applications for the PR2.
+ros-kinetic-wfov-camera-msgs - Messages related to the Point Grey camera driver.
+ros-kinetic-wge100-camera - A ROS node and assorted tools to provide access to the WGE100 camera used in the forearms and the stereo cameras of the PR2 robot.
+ros-kinetic-wge100-camera-firmware - Source for the WGE100 Ethernet camera: Verilog source for the FPGA, Forth source for the camera firmware.
+ros-kinetic-wge100-driver - This stack contains the ROS driver and firmware for the WGE100 camera used on the PR2 robot.
+ros-kinetic-wifi-ddwrt - Access to the DD-WRT wifi
+ros-kinetic-wiimote - The wiimote package allows ROS nodes to communicate with a Nintendo Wiimote and its related peripherals, including the Nunchuk, Motion Plus, and (experimentally) the Classic.
+ros-kinetic-willow-maps - Holds maps of Willow Garage that can be used for a number of different applications.
+ros-kinetic-wireless-msgs - Messages for describing aspects of a wireless network, connection, etc.
+ros-kinetic-wireless-watcher - The wireless_watcher package
+ros-kinetic-world-canvas-client-cpp - C++ client library to access semantic maps within the world canvas framework.
+ros-kinetic-world-canvas-client-examples - Examples showing how to use C++ and Python client libraries to access semantic maps within the world canvas framework.
+ros-kinetic-world-canvas-client-py - Python client library to access semantic maps within the world canvas framework.
+ros-kinetic-world-canvas-msgs - World canvas framework messages package
+ros-kinetic-world-canvas-server - Storage manager and server for WCF semantic maps.
+ros-kinetic-world-canvas-utils - C++/Python utilities library for the world canvas framework.
+ros-kinetic-wts-driver - The wts_driver package
+ros-kinetic-wu-ros-tools - A collection of tools for making a variety of generic ROS-related tasks easier.
+ros-kinetic-xacro - Xacro (XML Macros) Xacro is an XML macro language.
+ros-kinetic-xmlrpcpp - XmlRpc++ is a C++ implementation of the XML-RPC protocol.
+ros-kinetic-xpp - Xpp is collection of packages for the visualization of motion plans for floating-base robots.
+ros-kinetic-xpp-examples - Examples of how to use the xpp framework.
+ros-kinetic-xpp-hyq - HyQ-robot specific functions for visualization in the XPP Motion Framework.
+ros-kinetic-xpp-msgs - ROS messages used in the XPP framework.
+ros-kinetic-xpp-quadrotor - The URDF file for a quadrotor to be used with the xpp packages and a simple rviz publisher of quadrotor tfs.
+ros-kinetic-xpp-states - Common definitions (positions, velocities, angular angles, angular rates) and robot definitions in Cartesian and joint state used in the Xpp Motion Framework, as well as conversions to/from xpp_msgs.
+ros-kinetic-xpp-vis - Visualization for the XPP Motion Framework.
+ros-kinetic-xsens-driver - ROS Driver for XSens MT/MTi/MTi-G devices.
+ros-kinetic-xv-11-laser-driver - Neato XV-11 Laser Driver.
+ros-kinetic-yaml-cpp-0-3 - Legacy version of yaml cpp without boost, namespaced to avoid system conflicts.
+ros-kinetic-yocs-ar-marker-tracking - Collecting, tracking and generating statistics for ar markers from ar_track_alvar.
+ros-kinetic-yocs-ar-pair-approach - Search and approach behaviour, moving to a target in front of a pair of ar markers.
+ros-kinetic-yocs-ar-pair-tracking - The AR pair tracking package
+ros-kinetic-yocs-cmd-vel-mux - A multiplexer for command velocity inputs.
+ros-kinetic-yocs-controllers - Library for various controller types and algorithms
+ros-kinetic-yocs-diff-drive-pose-controller - A controller for driving a differential drive base to a pose goal or along a path specified by multiple poses.
+ros-kinetic-yocs-joyop - Joystick teleoperation for your robot robot core
+ros-kinetic-yocs-keyop - Keyboard teleoperation for your robot
+ros-kinetic-yocs-localization-manager - Localization Manager helps to localize robot's position with annotated information
+ros-kinetic-yocs-math-toolkit - Math toolkit for Yujin open control system.
+ros-kinetic-yocs-msgs - Yujin's Open Control System messages, services and actions
+ros-kinetic-yocs-navi-toolkit - Ros navigation utilities.
+ros-kinetic-yocs-navigator - Navigation module for robots
+ros-kinetic-yocs-rapps - Yujin open control system rapps for use with the app manager and rocon concert
+ros-kinetic-yocs-safety-controller - A controller ensuring the safe operation of your robot.
+ros-kinetic-yocs-velocity-smoother - Bound incoming velocity messages according to robot velocity and acceleration limits.
+ros-kinetic-yocs-virtual-sensor - Virtual sensor that uses semantic map information to &quot;see&quot; obstacles undetectable by robot sensors.
+ros-kinetic-yocs-waypoint-provider - Parse a multiple poses from yaml and provide as topic and service.
+ros-kinetic-yocs-waypoints-navi - Simple tool for waypoints navigation with two functions: * Command the robot to go to a goal by passing through a series of waypoints.
+ros-kinetic-youbot-description - Robot descriptions in form of URDF files and meshes
+ros-kinetic-youbot-driver - driver for the KUKA youBot robot
+ros-kinetic-ypspur - YP-Spur is a mobile robot motion control software with coordinate frame based commands.
+ros-kinetic-ypspur-ros - ROS wrapper for the mobile robot control platform YP-Spur
+ros-kinetic-yujin-ocs - Yujin Robot's open-source control software
+ros-kinetic-zbar-ros - Lightweight ROS wrapper for Zbar barcode/qrcode reader library (http://zbar.sourceforge .net/)
+ros-kinetic-zeroconf-avahi - Provides zeroconf services on avahi for ros systems.
+ros-kinetic-zeroconf-avahi-demos - Several demos and launch-tests for the avahi based zero-configuration.
+ros-kinetic-zeroconf-avahi-suite - Suite of packages supporing the avahi implementation of zeroconf for ros.
+ros-kinetic-zeroconf-jmdns-suite - An implementation of zeroconf in pure java.
+ros-kinetic-zeroconf-msgs - General ros communications used by the various zeroconf implementations.
